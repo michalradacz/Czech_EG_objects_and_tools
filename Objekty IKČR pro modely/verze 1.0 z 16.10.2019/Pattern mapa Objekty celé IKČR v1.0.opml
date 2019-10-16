@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+<title>Pattern mapa Objekty celé IKČR v1.0</title>
+</head>
+<body>
+<outline text="Informační koncepce České republiky"><outline text="Dokument Informační koncepce ČR"><outline text="Architektonické principy"><outline text="Architektonický princip EU P1: Standardně digitalizované"></outline>
+<outline text="Architektonický princip EU P2: Zásada „pouze jednou“"></outline>
+<outline text="Architektonický princip EU P3: Podpora začlenění a přístupnost"></outline>
+<outline text="Architektonický princip EU P4: Otevřenost a transparentnost"></outline>
+<outline text="Architektonický princip EU P5: Přeshraniční přístup jako standard"></outline>
+<outline text="Architektonický princip EU P6: Interoperabilita jako standard"></outline>
+<outline text="Architektonický princip EU P7: Důvěryhodnost a bezpečnost"></outline>
+<outline text="Architektonický princip ČR P8: Jeden stát"></outline>
+<outline text="Architektonický princip ČR P9: Sdílené služby veřejné správy"></outline>
+<outline text="Architektonický princip ČR P10: Připravenost na změny"></outline>
+<outline text="Architektonický princip ČR P11: eGovernment jako platforma"></outline>
+<outline text="Architektonický princip ČR P12: Vnitřně pouze digitální"></outline>
+<outline text="Architektonický princip ČR P13: Otevřená data jako standard"></outline>
+<outline text="Architektonický princip ČR P14: Technologická neutralita"></outline>
+<outline text="Architektonický princip ČR P15: Uživatelská přívětivost"></outline>
+<outline text="Architektonický princip ČR P16: Konsolidace a propojování informačních systémů veřejné správy"></outline>
+<outline text="Architektonický princip ČR P17: Omezení budování monolitických systémů"></outline>
+</outline>
+<outline text="Zásady řízení ICT ve veřejné správě"><outline text="Zásada řízení ICT Z1: Na prvním místě je klient"></outline>
+<outline text="Zásada řízení ICT Z2: Standardy plánování a řízení ICT"></outline>
+<outline text="Zásada řízení ICT Z3: Strategické řízení pomocí IK OVS"></outline>
+<outline text="Zásada řízení ICT Z4: Řízení architektury"></outline>
+<outline text="Zásada řízení ICT Z5: Řízení požadavků a změn"></outline>
+<outline text="Zásada řízení ICT Z6: Řízení výkonnosti a kvality"></outline>
+<outline text="Zásada řízení ICT Z7: Řízení zodpovědnosti za služby a systémy"></outline>
+<outline text="Zásada řízení ICT Z8: Řízení katalogu služeb"></outline>
+<outline text="Zásada řízení ICT Z9: Udržení interních kompetencí"></outline>
+<outline text="Zásada řízení ICT Z10: Procesní řízení"></outline>
+<outline text="Zásada řízení ICT Z11: Řízení přínosů a hodnoty"></outline>
+<outline text="Zásada řízení ICT Z12: Řízení kapacit zdrojů"></outline>
+<outline text="Zásada řízení ICT Z13: Nezávislost návrhu, řízení a kontroly kvality"></outline>
+<outline text="Zásada řízení ICT Z14: Vztah informatiky a legislativy"></outline>
+<outline text="Zásada řízení ICT Z15: Řízení financování ICT"></outline>
+<outline text="Zásada řízení ICT Z16: Využívání otevřeného software a standardů"></outline>
+<outline text="Zásada řízení ICT Z17: Podpora vyváženého partnerství s dodavateli"></outline>
+</outline>
+<outline text="Cíle Informační koncepce ČR"><outline text="Hlavní cíl č. 1: UŽIVATELSKY PŘÍVĚTIVÉ A EFEKTIVNÍ „ON-LINE“ SLUŽBY PRO OBČANY A FIRMY"><outline text="Dílčí cíl 1.1: Katalog služeb veřejné správy"></outline>
+<outline text="Dílčí cíl 1.2: Informování o službách veřejnosti"></outline>
+<outline text="Dílčí cíl 1.3: Rozvoj univerzálních front-office služeb"></outline>
+<outline text="Dílčí cíl 1.4: Rozvoj klientských služeb resortů"></outline>
+<outline text="Dílčí cíl 1.5: Rozvoj Národního katalogu otevřených dat"></outline>
+<outline text="Dílčí cíl 1.6: Stanovení rolí a zodpovědnosti za služby OVM"></outline>
+<outline text="Dílčí cíl 1.7: Systém zapojení veřejnosti a subjektů do zlepšování EG služeb"></outline>
+<outline text="Dílčí cíl 1.8: Metodiky a principy uživatelské přívětivosti"></outline>
+</outline>
+<outline text="Hlavní cíl č. 2: DIGITÁLNĚ PŘÍVĚTIVÁ LEGISLATIVA"><outline text="Dílčí cíl 2.1: Zavedení DPL jako součást v přípravě a hodnocení legislativy"></outline>
+<outline text="Dílčí cíl 2.2: Spolupracovat na evropské úrovni k DPL"></outline>
+<outline text="Dílčí cíl 2.3: Projekty eSbírka a eLegislativa"></outline>
+<outline text="Dílčí cíl 2.4: Analyzování a úpravy právních předpisů pro služby EG"></outline>
+<outline text="Dílčí cíl 2.5: Zakotvení práva na digitální služby"></outline>
+<outline text="Dílčí cíl 2.6: Aktualizace legislativy k eGovernmentu"></outline>
+<outline text="Dílčí cíl 2.7: Analýza služeb EG směrem ke komerčnímu sektoru a klientům"></outline>
+<outline text="Dílčí cíl 2.8: Metodika pro veřejné zakázky v ICT a EG"></outline>
+</outline>
+<outline text="Hlavní cíl č. 3: ROZVOJ PROSTŘEDÍ PODPORUJÍCÍHO DIGITÁLNÍ TECHNOLOGIE V OBLASTI eGOVERNMENTU"><outline text="Dílčí cíl 3.1: Využití prostředků ESF na rozvoj digitalizace"></outline>
+<outline text="Dílčí cíl 3.2: Digitalizace dosud nedigitalizovaného obsahu"></outline>
+<outline text="Dílčí cíl 3.3: Digitalizace a správa úředních dokumentů a úředního obsahu"></outline>
+<outline text="Dílčí cíl 3.4: Zkvalitnění Registru práv a povinností a jeho obsahu"></outline>
+<outline text="Dílčí cíl 3.5: Rozvoj komunikační infrastruktury státu"></outline>
+<outline text="Dílčí cíl 3.6: Rozvoj systémů elektronické identifikace (EID)"></outline>
+<outline text="Dílčí cíl 3.7: Digitální technická mapa ČR"></outline>
+</outline>
+<outline text="Hlavní cíl č. 4: ZVÝŠENÍ KAPACIT A KOMPETENCÍ ZAMĚSTNANCŮ VE VEŘEJNÉ SPRÁVĚ"><outline text="Dílčí cíl 4.1: Úpravy systemizace a katalogizace profesí v IT a DPL"></outline>
+<outline text="Dílčí cíl 4.2: Opatření pro získání a udržení klíčových specialistů v rámci veřejné správy"></outline>
+<outline text="Dílčí cíl 4.3: Intenzivní spolupráce s vysokými školami"></outline>
+<outline text="Dílčí cíl 4.4: Sdílená kompetenční centra a zvyšování kapacit"></outline>
+<outline text="Dílčí cíl 4.5: Institucionalizace klíčových útvarů a rolí v úřadech"></outline>
+<outline text="Dílčí cíl 4.6: Kompetence a zdroje pro realizaci změn"></outline>
+<outline text="Dílčí cíl 4.7: Zavedení procesního řízení a řízení služeb ve veřejné správě"></outline>
+<outline text="Dílčí cíl 4.8: Rozvoj systému vzdělávání a odborné přípravy zaměstnanců veřejné správy směrem k EG"></outline>
+</outline>
+<outline text="Hlavní cíl č. 5: EFEKTIVNÍ A CENTRÁLNĚ KOORDINOVANÉ ICT VEŘEJNÉ SPRÁVY"><outline text="Dílčí cíl 5.1: Implementace procesu řízení IKČR"></outline>
+<outline text="Dílčí cíl 5.2: Alokace lidských a institucionálních zdrojů pro realizaci IKČR"></outline>
+<outline text="Dílčí cíl 5.3: Zavedení principů pro řízení a rozvoj architektury v úřadech"></outline>
+<outline text="Dílčí cíl 5.4: Realizace modelu spolupráce OVM a podniků poskytujících infrastrukturu"></outline>
+<outline text="Dílčí cíl 5.5: eGovernment cloud"></outline>
+<outline text="Dílčí cíl 5.6: Standardizace v EG a aslužbách"></outline>
+<outline text="Dílčí cíl 5.7: Podpora agend vykonávaných v přenesené působnosti formou sdílení údajů a AISů"></outline>
+<outline text="Dílčí cíl 5.8: Podpora agendových systémů pro výkon samostatné působnosti"></outline>
+<outline text="Dílčí cíl 5.9: Rozvoj Propojeného datového fondu (PPDF)"></outline>
+<outline text="Dílčí cíl 5.10: Rozvoj otevřených dat a veřejného fondu dat a služeb veřejné správy"></outline>
+<outline text="Dílčí cíl 5.11: Rozvoj geoinformatiky a prostorových informací"></outline>
+<outline text="Dílčí cíl 5.12: Hodnocení realizace IKČR a zpětná vazba"></outline>
+</outline>
+</outline>
+</outline>
+<outline text="Metody řízení ICT"><outline text="Předpoklady a východiska řízení ICT OVS"><outline text="Legislativní a společenská východiska"><outline text="Systémový dohled nad architekturou"></outline>
+<outline text="Systémový dohled nad řízením ICT"></outline>
+<outline text="Ekonomické souvislosti"></outline>
+<outline text="Zákon o veřejných zakázkách"></outline>
+<outline text="Řídící kontrola a další působení kontrolních orgánů"></outline>
+</outline>
+<outline text="Úrovně řízení a zodpovědností ve veřejné správě"></outline>
+<outline text="Funkční a procesní model ICT OVS"><outline text="Byznys architektura informatické schopnosti OVS"></outline>
+<outline text="Aplikační architektura informatické schopnosti OVS"></outline>
+</outline>
+<outline text="Ukazatele hodnocení úspěšnosti řízení ICT"></outline>
+<outline text="Čtyři vrstvy architektury"></outline>
+<outline text="Pohled na úřad jako celek"></outline>
+<outline text="Cílům a přínosům odpovídající zdroje"></outline>
+</outline>
+<outline text="Řízení jednotlivých ICT řešení"><outline text="Řízení informačních systémů podle etap a fází jejich životního cyklu"><outline text="Fáze 1 - STRATEGIE"></outline>
+<outline text="Fáze 2 - PLÁN A PŘÍPRAVA"></outline>
+<outline text="Fáze 3 – REALIZACE"></outline>
+<outline text="Fáze 4 - PRODUKČNÍ PROVOZ"></outline>
+<outline text="Fáze 5 - VYHODNOCENÍ provozu a služeb IS"></outline>
+<outline text="Fáze 6 - UKONČENÍ ICT SLUŽBY"></outline>
+</outline>
+<outline text="Zásady strategického plánování ISVS v kontextu architektury úřadu"><outline text="Přístup ex-ante k plánování a řízení změn a jejich přínosů"></outline>
+<outline text="Návaznost na byznys a IT strategii úřadu, korporace a eGovernmentu"></outline>
+<outline text="Enterprise architektura ISVS a jeho architektura řešení"></outline>
+<outline text="ISVS v Informační koncepci orgánu veřejné správy"></outline>
+<outline text="Řízení služeb informačního systému"></outline>
+<outline text="Pravidla plánování rozvoje ISVS"></outline>
+<outline text="Pravidla ukončení provozu ISVS a přechodu na jiný"></outline>
+</outline>
+<outline text="Zásady pro výběr a pořízení informačních systémů veřejné správy"><outline text="Pravidla pro financování pořízení IT řešení"></outline>
+<outline text="Pravidla rozhodování o způsobu realizace řešení ICT"></outline>
+<outline text="Pravidla pro lepší nákup ICT řešení"></outline>
+<outline text="Koncepce řízení úspěšné realizace projektů navržených ICT změn"></outline>
+</outline>
+<outline text="Pravidla efektivního řízení provozu a dodávky služeb, nákupu služeb a průběžného zlepšování"><outline text="Budování a údržba kompetencí k provozu a rozvoji IT řešení"></outline>
+<outline text="Zásady a postupy pro provozování informačních systémů veřejné správy"></outline>
+<outline text="Zásady péče o klienty a uživatele služeb informačních systémů"></outline>
+</outline>
+<outline text="Pravidla nepřímého řízení (governance) ISVS"></outline>
+</outline>
+<outline text="Řízení na úrovni útvaru ICT OVS"><outline text="Klíčové principy řízení ICT v úřadu"></outline>
+<outline text="Přístup k organizaci a managementu informatiky"></outline>
+<outline text="Vlastní architektura útvaru ICT"></outline>
+<outline text="Personální politika a rozvoj lidských zdrojů ve vztahu k ICT VS"><outline text="Přístup k rozvoji lidských zdrojů informatizace"></outline>
+</outline>
+<outline text="Rozvoj a udržení znalostí a kompetencí"><outline text="Vztah profese ICT a státní služby"></outline>
+</outline>
+<outline text="Ekonomické a finanční řízení ICT"><outline text="Sestavování rozpočtu, rozpočtová opatření"></outline>
+<outline text="Reporting a kontrola rozpočtu"></outline>
+<outline text="Koncepce řízení ekonomiky ICT ve veřejné správě"></outline>
+<outline text="Řízení smluv a závazků vůči dodavatelům"></outline>
+<outline text="Komplexní správa licencí"></outline>
+</outline>
+<outline text="Správa vlastních informačních systémů ICT"></outline>
+</outline>
+<outline text="Strategické plánování a řízení ICT OVS"><outline text="Přístup ke strategickému řízení informatiky prostřednictvím architektury úřadu"></outline>
+<outline text="Informační koncepce OVS"></outline>
+<outline text="Další metody strategického řízení ICT"></outline>
+<outline text="Plán realizace změn (Roadmapa)"></outline>
+</outline>
+<outline text="Řízení identifikace a realizace změn ICT OVS"><outline text="Sběr a vyhodnocování požadavků na změny, jejich řízení a klasifikace"></outline>
+<outline text="Řízení projektů a programů úřadu"></outline>
+<outline text="Realizace malých změn - průběžné zlepšování"></outline>
+</outline>
+<outline text="Řízení provozu IS a dodávky služeb"><outline text="Řízení podpory klientů a uživatelů ICT služeb"></outline>
+<outline text="Řízení provozu výpočetních a komunikačních technologií"></outline>
+<outline text="Monitoring provozu a služeb ICT"></outline>
+</outline>
+<outline text="Řízení rizik a bezpečnosti v ICT útvaru"><outline text="Řízení rizik v ICT útvaru"></outline>
+<outline text="Řízení ICT bezpečnosti"></outline>
+</outline>
+<outline text="Správa a řízení IT aktiv"><outline text="Správa celkového portfolia služeb"></outline>
+<outline text="Správa aplikačního portfolia"></outline>
+<outline text="Správa technologického portfolia"></outline>
+<outline text="Správa datových fondů OVS"></outline>
+<outline text="Odlišný přístup k pořizování a správě ICT komodit"></outline>
+</outline>
+<outline text="Přístup k nepřímému řízení a dohledu na informatizaci (governance)"><outline text="Zavedení řízení kvality služeb"></outline>
+<outline text="Reporting pro management a governance ICT"></outline>
+<outline text="ICT Controlling a benchmarking"></outline>
+</outline>
+<outline text="Standardizace v řízení ICT"></outline>
+<outline text="Spolupráce s ostatními útvary úřadu a eGovernmentu"><outline text="Podpora útvarů péče o klienty služeb úřadu"></outline>
+<outline text="Integrovaný externí ServiceDesk pro digitální služby"></outline>
+</outline>
+<outline text="Přístup k legislativní podpoře informatizace VS"><outline text="Digitálně přívětivá legislativa"></outline>
+</outline>
+<outline text="IT bezpečnost a ochrana údajů v kontextu úřadu"><outline text="Podíl IT na celkové bezpečnosti úřadu"></outline>
+<outline text="Podíl IT na ochraně údajů a GDPR"></outline>
+</outline>
+<outline text="Spolupráce s ostatními provozními útvary"><outline text="Spolupráce s ekonomickými útvary"></outline>
+<outline text="Spolupráce s personálními útvary"></outline>
+<outline text="Spolupráce na veřejných zakázkách"></outline>
+<outline text="Spolupráce se správou nemovitostí"></outline>
+<outline text="Společné zapojení v centru sdílených služeb pro zaměstnance"></outline>
+</outline>
+<outline text="Centrální koordinace řízení ICT státu"><outline text="Ekonomická koordinace"></outline>
+<outline text="Koordinace realizace změn a dosahování přínosů"></outline>
+<outline text="Řízení licencí a OSS/FS"></outline>
+</outline>
+<outline text="Postup a plán realizace změn (Roadmap)"><outline text="Prioritizace změnových opatření státu a OVS"></outline>
+<outline text="Doporučený postup realizace žádoucího stavu v OVS"></outline>
+<outline text="Nastartování změn"></outline>
+<outline text="Přehled a plán změn (akční plán)"><outline text="Vytvoření Znalostní báze Metod řízení ICT VS ČR"></outline>
+<outline text="Nutné organizační a kompetenční změny"></outline>
+</outline>
+<outline text="Analýza rizik a strategie jejich zmírnění"></outline>
+<outline text="Monitoring postupu"></outline>
+<outline text="Aktualizace koncepce a akčního plánu"></outline>
+</outline>
+<outline text="Přehledy klíčových povinností při řízení ICT VS"><outline text="Provázanost legislativních povinností útvarů ICT"></outline>
+</outline>
+</outline>
+<outline text="Národní architektonický rámec"><outline text="Modelující úřady a jejich architektury"><outline text="Rozsah modelovaných úřadů (Enterprise) a jejich architektur"><outline text="Stanovení rozsahu modelovaných úřadů"></outline>
+<outline text="Segmentace architektur dle významu (TOGAF)"></outline>
+<outline text="Rozdělení zodpovědností za správu architektury úřadu"></outline>
+</outline>
+</outline>
+<outline text="Struktura modelovaných architektur"><outline text="Modely architektury podle účelu a podrobnosti"></outline>
+<outline text="Domény obsahu architektur"></outline>
+<outline text="Architektury podle míry obecnosti a závaznosti"></outline>
+<outline text="Stavební bloky architektury a řešení"></outline>
+<outline text="Stupně detailu prezentovaných informací u pohledů na model"></outline>
+<outline text="Kontexty modelu architektury úřadu"></outline>
+</outline>
+<outline text="Proces tvorby architektur"><outline text="Přizpůsobení cyklu ADM pro NA VS ČR a pro jednotlivá angažmá"><outline text="Nastavení rozsahu architektonického angažmá"></outline>
+<outline text="Rozhodnutí o šířce rozsahu"></outline>
+<outline text="Rozhodnutí o hloubce obsahu"></outline>
+<outline text="Rozhodnutí o časovém horizontu architektury"></outline>
+<outline text="Rozhodnutí o doménách v architektonickém angažmá"></outline>
+<outline text="Rozhodnutí o použitých vstupech"></outline>
+<outline text="Rozhodnutí o volbě hledisek podle zainteresovaných"></outline>
+</outline>
+<outline text="Praktické příklady architektonických angažmá"><outline text="Návrh architektonické vize úřadu"></outline>
+<outline text="Enterprise architektura projektu (PSA)"></outline>
+<outline text="Architektura pro žádost o stanovisko OHA k ICT projektu"></outline>
+<outline text="Architektura pro Informační koncepci OVS"></outline>
+</outline>
+<outline text="Přizpůsobený obsah cyklu ADM pro NA VS ČR"><outline text="Předběžná fáze"></outline>
+<outline text="Fáze A – Architektonická vize"></outline>
+<outline text="Fáze B – Byznys architektura výkonu a provozu veřejné správy"></outline>
+<outline text="Fáze C – Architektura IS (aplikační a datová)"></outline>
+<outline text="Fáze D – Technologická architektura výpočetní a komunikační infrastruktury"></outline>
+<outline text="Fáze E – Příležitosti a řešení"></outline>
+<outline text="Fáze F – Plánování migrace"></outline>
+<outline text="Fáze G – Dohled na zavedení plánované architektury"></outline>
+<outline text="Fáze H – Řízení architektonických změn"></outline>
+<outline text="Proces správy architektonických požadavků"></outline>
+</outline>
+</outline>
+<outline text="Rámec obsahu a výstupů architektur"><outline text="Předměty modelování – architektonický metamodel"></outline>
+<outline text="Celkový metamodel NA VS ČR"></outline>
+<outline text="Dílčí doménové metamodely"><outline text="Metamodel byznys architektury (BA)"></outline>
+<outline text="Metamodel architektury IS - informační (datové) architektury (DA)"></outline>
+<outline text="Metamodel architektury IS - aplikační architektury (AA)"></outline>
+<outline text="Metamodel ICT technologické architektury (TA)"></outline>
+<outline text="Metamodel komunikační a fyzické infrastruktury (KI)"></outline>
+<outline text="Metamodel architektury strategie a směřování (MA)"></outline>
+<outline text="Metamodel výkonnostní architektury (PA)"></outline>
+<outline text="Metamodel bezpečnostní architektury (SA)"></outline>
+<outline text="Metamodel architektury standardizace, shody s předpisy a udržitelnosti"></outline>
+<outline text="Metamodel architektury implementace a migrace"></outline>
+</outline>
+<outline text="Hlediska a definice pohledů Národní architektury VS ČR"><outline text="Přehledová hlediska"></outline>
+<outline text="Hlediska motivační architektury"></outline>
+<outline text="Hlediska byznys architektury poskytování služeb VS"></outline>
+<outline text="Hlediska architektury informačních systémů"></outline>
+<outline text="Hlediska IT technologie a komunikační infrastruktury"></outline>
+<outline text="Hledisko implementace a migrace"></outline>
+<outline text="Hlediska referenční architektury evropské interoperability EIRA"></outline>
+</outline>
+<outline text="Referenční modely architektury úřadu"><outline text="Referenční modely byznys architektury"></outline>
+<outline text="Referenční model aplikační architektury NAP"></outline>
+<outline text="Referenční model datové architektury"></outline>
+<outline text="Referenční model IT technologické architektury"></outline>
+<outline text="Referenční model komunikační architektury"></outline>
+<outline text="Referenční model architektury strategického směřování"></outline>
+</outline>
+</outline>
+<outline text="Architektonické dovednosti, útvary a orgány"><outline text="Ustavení a role architektonických útvarů a orgánů"><outline text="Útvar architektury úřadu"></outline>
+<outline text="Architektonická rada"></outline>
+</outline>
+<outline text="Rozvoj architektonických dovedností"></outline>
+</outline>
+<outline text="Architektonické úložiště a nástroj"><outline text="Struktura obsahu architektonického úložiště"></outline>
+<outline text="Klasifikace modelů a pohledů NA VS ČR"></outline>
+<outline text="Struktura navigace a modelování v nástroji EAM"><outline text="Struktura modelů ArchiMate v nástroji a úložišti"></outline>
+<outline text="Celková hierarchie modelů NA VS ČR"></outline>
+<outline text="Modely definice architektonické rámce (metamodel, úhly pohledu)"></outline>
+<outline text="Modely referenční knihovny"></outline>
+<outline text="Modely knihovny standardů a vzorů"></outline>
+<outline text="Modely individuálních architektur úřadů"></outline>
+</outline>
+<outline text="Principy synchronizace centrálních a lokálních architektonických nástrojů"></outline>
+<outline text="Potřeby a požadavky používání nástroje"></outline>
+</outline>
+</outline>
+<outline text="Národní architektonický plán"><outline text="Domény Národní architektury veřejné správy"></outline>
+<outline text="Koncepce referenčních modelů architektury úřadů VS"><outline text="Architektonické vzory klíčových oblastí úřadu"></outline>
+<outline text="Architektonické vzory využití sdílených služeb eGovernmentu"></outline>
+</outline>
+<outline text="Základy a podstaty změn pro jednotlivé architektonické vrstvy"><outline text="Byznys architektura - vrstva výkonu veřejné správy"></outline>
+<outline text="Aplikační architektura - vrstva informačních systémů veřejné správy"></outline>
+<outline text="Technologická / Platformová architektura - vrstva HW a SW technologií"></outline>
+<outline text="Komunikační architektura - vrstva komunikační infrastruktury veřejné správy"></outline>
+</outline>
+<outline text="Architektura úřadu v kontextu veřejné správy a jejích vrstvách architektury"><outline text="Pravidla architektury strategie a směřování úřadu"></outline>
+<outline text="Pravidla výkonnostní architektury úřadu"></outline>
+<outline text="Pravidla byznys architektury výkonu veřejných služeb úřadu"><outline text="Rozdělení procesů a funkcí veřejné správy"></outline>
+<outline text="Ohlášení agend úřadu v RPP"></outline>
+<outline text="Rozdělení obslužných a komunikačních kanálů veřejné správy"></outline>
+<outline text="Vliv byznys architektury úřadu na možnosti řešení její IT podpory"></outline>
+</outline>
+<outline text="Pravidla aplikační architektury IS VS úřadu"><outline text="Principy klasifikace aplikací dle referenčního modelu"></outline>
+<outline text="Pravidla pro uživatelská rozhraní a přístup k informačním systémům"></outline>
+<outline text="Pravidla pro obslužné agendové aplikace (FO)"></outline>
+<outline text="Pravidla pro odborné (specifické) agendové aplikace (MO)"></outline>
+<outline text="Pravidla pro aplikace agendového zázemí (BO)"></outline>
+<outline text="Pravidla pro aplikace spisové služby, správy případů a workflow"></outline>
+<outline text="Pravidla pro kategorii znalostních systémů"></outline>
+<outline text="Pravidla pro identity management (IDM)"></outline>
+<outline text="Pravidla pro integrační platformy"></outline>
+<outline text="Pravidla pro systémy zveřejňující a využívající otevřená data"></outline>
+<outline text="Pravidla pro využití SaaS služeb eGC"></outline>
+</outline>
+<outline text="Pravidla datové architektury IS VS"><outline text="Rozdělení / klasifikace dat ve veřejné správě"></outline>
+<outline text="Pravidla pro číselníková data"></outline>
+<outline text="Pravidla pro referenční a agendová kmenová data"></outline>
+<outline text="Pravidla pro otevřená data (OD)"></outline>
+<outline text="Pravidla pro data veřejného datového fondu"></outline>
+<outline text="Pravidla pro analytická data"></outline>
+<outline text="Hierarchie povinnosti využívání údajů dle jejich závaznosti"></outline>
+</outline>
+<outline text="Pravidla technologické architektury IS VS"><outline text="Klasifikace IT technologické architektury"></outline>
+<outline text="Pravidla návrhu a využití On-Premise architektury"></outline>
+<outline text="Pravidla využití PaaS a IaaS služeb eGC"></outline>
+</outline>
+<outline text="Pravidla fyzické a komunikační infrastruktury IS VS"></outline>
+<outline text="Specifická pravidla pro architekturu úřadů"><outline text="Pravidla pro architekturu dle velikosti a možností úřadů"></outline>
+<outline text="Pravidla pro architekturu dle pozice úřadu ve struktuře VS ČR a vztahu ke sdíleným službám"></outline>
+</outline>
+</outline>
+<outline text="Popis sdílených služeb, funkčních celků a tematických oblastí veřejné správy ČR"><outline text="Agendový model veřejné správy"></outline>
+<outline text="Propojený datový fond"><outline text="Referenční rozhraní"></outline>
+<outline text="Evidence subjektů"></outline>
+<outline text="Pohled na propojený datový fond"></outline>
+</outline>
+<outline text="Veřejný datový fond"><outline text="Datové zdroje VS ČR"></outline>
+<outline text="Přístupy k datům VS"></outline>
+</outline>
+<outline text="Úplné elektronické podání"></outline>
+<outline text="Integrace informačních systémů"><outline text="Integrace na systémy jiného správce s pomocí eGSB"></outline>
+</outline>
+<outline text="Portály veřejné správy a soukromoprávních uživatelů údajů"><outline text="PO a PVS - Portál občana a Portál veřejné správy"></outline>
+<outline text="Agendový portál"></outline>
+<outline text="Portál území"></outline>
+<outline text="Portál soukromoprávního uživatele údajů"></outline>
+</outline>
+<outline text="Přístupnost informací"><outline text="Obecně o přístupnosti"></outline>
+</outline>
+<outline text="Elektronická fakturace"></outline>
+<outline text="Portál občana a portál veřejné správy"></outline>
+<outline text="Elektronická identifikace pro klienty veřejné správy"><outline text="Mandáty, práva a role v elektronické identifikaci pro klienty veřejné správy"></outline>
+</outline>
+<outline text="Univerzální kontaktní místo veřejné správy"><outline text="Samoobslužná univerzální kontaktní místa"></outline>
+<outline text="Asistovaná univerzální kontaktní místa"></outline>
+</outline>
+<outline text="Systémy správy dokumentů"><outline text="Obecně o spisové službě"></outline>
+<outline text="Digitální kontinuita"></outline>
+<outline text="Řídící dokumenty"></outline>
+</outline>
+<outline text="Systémy a služby spojené s právním řádem a legislativou"><outline text="Základní komponenty právních systémů státu"></outline>
+</outline>
+<outline text="Elektronické úkony a doručování"><outline text="Typy datové schránky"></outline>
+<outline text="Zápis rozhodnutí do Registru práv a povinností"></outline>
+<outline text="Využití údajů základních registrů (ZR)"></outline>
+</outline>
+<outline text="Jednotný identitní prostor veřejné správy"></outline>
+<outline text="Jednotné obslužné kanály a uživatelská rozhraní úředníků"><outline text="Portál úředníka"></outline>
+<outline text="CzechPOINT@Office"></outline>
+</outline>
+<outline text="Sdílené agendové IS v přenesené působnosti"></outline>
+<outline text="Sdílené agendové IS pro samostatnou působnost územních samospráv"></outline>
+<outline text="Sdílené provozní informační systémy"></outline>
+<outline text="Sdílené statistické, analytické a výkaznické systémy"></outline>
+<outline text="eGovernment Cloud"></outline>
+<outline text="Národní datová centra"></outline>
+<outline text="Komunikační infrastruktura veřejné správy"></outline>
+</outline>
+<outline text="Modely Národního architektonického plánu"><outline text="Centrální úložiště modelů"></outline>
+<outline text="Pravidla pro lokální úložiště modelů a modelovací nástroje"></outline>
+<outline text="Vzájemná výměna modelů"></outline>
+<outline text="Výpis podstatných prvků architektury eGovernmentu"></outline>
+</outline>
+</outline>
+</outline>
+</body>
+</opml>

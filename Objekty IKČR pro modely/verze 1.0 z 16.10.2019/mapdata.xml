@@ -1,0 +1,770 @@
+<iThoughts version="4.0" app="com.toketaware.ios.ithoughts" app-version="7.4" modified="2019-10-16T13:54:22" author="Ipad LTE" system-version="iPad 13.2"><topics>
+<topic uuid="055EC26E-4507-461F-9073-67F1B444413A" position="{0, 0}" text="Informační koncepce České republiky" color="FFFFFF" created="2019-10-16T13:54:18" modified="2019-10-16T13:54:18">
+<topic uuid="4C70767A-4C92-4A62-ADC8-9342B39A2215" position="{352, -6439}" text="Dokument Informační koncepce ČR" created="2019-10-16T13:54:18" modified="2019-10-16T13:54:18">
+<topic uuid="78F8967C-1B8F-49D9-959E-D12391A5D7EF" position="{293, -1900}" text="Architektonické principy" created="2019-10-16T13:54:18" modified="2019-10-16T13:54:18">
+<topic uuid="F02E0D4F-68A0-40DB-87D7-7CB109EC7FF2" position="{316, -528}" text="Architektonický princip EU P1: Standardně digitalizované" created="2019-10-16T13:54:18" modified="2019-10-16T13:54:18">
+</topic>
+<topic uuid="584E31C6-DA03-4535-B966-C3C550B002E3" position="{327, -462}" text="Architektonický princip EU P2: Zásada „pouze jednou“" created="2019-10-16T13:54:18" modified="2019-10-16T13:54:18">
+</topic>
+<topic uuid="BDFF392D-F68A-4EBD-AD31-2E7461C3C430" position="{307, -396}" text="Architektonický princip EU P3: Podpora začlenění a přístupnost" created="2019-10-16T13:54:18" modified="2019-10-16T13:54:18">
+</topic>
+<topic uuid="8F368B66-F09A-42FC-9CF6-FA8AA1CB8C63" position="{320, -330}" text="Architektonický princip EU P4: Otevřenost a transparentnost" created="2019-10-16T13:54:18" modified="2019-10-16T13:54:18">
+</topic>
+<topic uuid="01494B3A-3391-47FF-BFA2-1A30A48AA6BC" position="{319, -264}" text="Architektonický princip EU P5: Přeshraniční přístup jako standard" created="2019-10-16T13:54:18" modified="2019-10-16T13:54:18">
+</topic>
+<topic uuid="BB301380-922A-439C-ACB4-3A84704551D8" position="{326, -198}" text="Architektonický princip EU P6: Interoperabilita jako standard" created="2019-10-16T13:54:18" modified="2019-10-16T13:54:18">
+</topic>
+<topic uuid="31FD3CFB-9EF6-4D57-AC13-911C1622EDFF" position="{327, -132}" text="Architektonický princip EU P7: Důvěryhodnost a bezpečnost" created="2019-10-16T13:54:18" modified="2019-10-16T13:54:18">
+</topic>
+<topic uuid="5C7DEF34-8CE2-40F5-B259-F638D2FF3FDC" position="{311, -74}" text="Architektonický princip ČR P8: Jeden stát" created="2019-10-16T13:54:18" modified="2019-10-16T13:54:18">
+</topic>
+<topic uuid="0C570C7C-65BC-41C0-95DA-98800B6B7B89" position="{326, -16}" text="Architektonický princip ČR P9: Sdílené služby veřejné správy" created="2019-10-16T13:54:18" modified="2019-10-16T13:54:18">
+</topic>
+<topic uuid="39294E7B-38AD-42E0-93EB-23DB571B40CF" position="{324, 50}" text="Architektonický princip ČR P10: Připravenost na změny" created="2019-10-16T13:54:18" modified="2019-10-16T13:54:18">
+</topic>
+<topic uuid="19E51696-36F9-4B80-8BEE-C2944A49B82D" position="{326, 116}" text="Architektonický princip ČR P11: eGovernment jako platforma" created="2019-10-16T13:54:18" modified="2019-10-16T13:54:18">
+</topic>
+<topic uuid="8CAF27C5-0348-477F-A4A4-993059492588" position="{327, 182}" text="Architektonický princip ČR P12: Vnitřně pouze digitální" created="2019-10-16T13:54:18" modified="2019-10-16T13:54:18">
+</topic>
+<topic uuid="7A8C73BE-B822-4408-A835-BF98E70E9F28" position="{327, 248}" text="Architektonický princip ČR P13: Otevřená data jako standard" created="2019-10-16T13:54:18" modified="2019-10-16T13:54:18">
+</topic>
+<topic uuid="4D74C8FB-E7AC-44D2-ACF7-DDC29C4D8ADF" position="{327, 314}" text="Architektonický princip ČR P14: Technologická neutralita" created="2019-10-16T13:54:18" modified="2019-10-16T13:54:18">
+</topic>
+<topic uuid="A14A1DB5-4114-4AFB-B562-1AA3FE08E367" position="{320, 380}" text="Architektonický princip ČR P15: Uživatelská přívětivost" created="2019-10-16T13:54:18" modified="2019-10-16T13:54:18">
+</topic>
+<topic uuid="2F906789-D95C-4C26-A777-53346781F43E" position="{327, 454}" text="Architektonický princip ČR P16: Konsolidace a propojování informačních systémů veřejné správy" created="2019-10-16T13:54:18" modified="2019-10-16T13:54:18">
+</topic>
+<topic uuid="D17500DF-F247-42CC-AEF8-FBED89970A20" position="{313, 528}" text="Architektonický princip ČR P17: Omezení budování monolitických systémů" created="2019-10-16T13:54:18" modified="2019-10-16T13:54:18">
+</topic>
+</topic>
+<topic uuid="A9557DC8-AA7F-48A1-B8F5-3CBD7FD70078" position="{332, -818}" text="Zásady řízení ICT ve veřejné správě" created="2019-10-16T13:54:18" modified="2019-10-16T13:54:18">
+<topic uuid="992BB80C-F167-415D-BF63-A61EE51C56C8" position="{352, -488}" text="Zásada řízení ICT Z1: Na prvním místě je klient" created="2019-10-16T13:54:18" modified="2019-10-16T13:54:18">
+</topic>
+<topic uuid="FE87A0DB-9EE1-47FD-941E-F23E6C9952BE" position="{363, -422}" text="Zásada řízení ICT Z2: Standardy plánování a řízení ICT" created="2019-10-16T13:54:18" modified="2019-10-16T13:54:18">
+</topic>
+<topic uuid="BCF627B2-8FA5-4D0A-964B-2AE55ED0F179" position="{348, -356}" text="Zásada řízení ICT Z3: Strategické řízení pomocí IK OVS" created="2019-10-16T13:54:18" modified="2019-10-16T13:54:18">
+</topic>
+<topic uuid="267FC6A8-0C77-4BC1-82B4-E777BE403BAE" position="{350, -298}" text="Zásada řízení ICT Z4: Řízení architektury" created="2019-10-16T13:54:18" modified="2019-10-16T13:54:18">
+</topic>
+<topic uuid="F71258BF-5C30-47F2-91F2-A96DB1907184" position="{355, -240}" text="Zásada řízení ICT Z5: Řízení požadavků a změn" created="2019-10-16T13:54:18" modified="2019-10-16T13:54:18">
+</topic>
+<topic uuid="95406A5E-2C3D-4B86-8F43-040EAEA5F7EB" position="{354, -174}" text="Zásada řízení ICT Z6: Řízení výkonnosti a kvality" created="2019-10-16T13:54:18" modified="2019-10-16T13:54:18">
+</topic>
+<topic uuid="DD11296B-3CE3-41D7-A98E-054B48D0C797" position="{361, -108}" text="Zásada řízení ICT Z7: Řízení zodpovědnosti za služby a systémy" created="2019-10-16T13:54:18" modified="2019-10-16T13:54:18">
+</topic>
+<topic uuid="6AAA4E6F-8EF1-402D-995E-C665E568F764" position="{362, -50}" text="Zásada řízení ICT Z8: Řízení katalogu služeb" created="2019-10-16T13:54:18" modified="2019-10-16T13:54:18">
+</topic>
+<topic uuid="01B0C84C-3FA7-4A02-A01C-E6E74ADF9516" position="{347, 8}" text="Zásada řízení ICT Z9: Udržení interních kompetencí" created="2019-10-16T13:54:18" modified="2019-10-16T13:54:18">
+</topic>
+<topic uuid="B5F917DD-7749-4DEA-98E8-04BC96F6D3BF" position="{342, 66}" text="Zásada řízení ICT Z10: Procesní řízení" created="2019-10-16T13:54:19" modified="2019-10-16T13:54:19">
+</topic>
+<topic uuid="19F29562-606C-499B-91F1-67AEB98CB4C5" position="{348, 124}" text="Zásada řízení ICT Z11: Řízení přínosů a hodnoty" created="2019-10-16T13:54:19" modified="2019-10-16T13:54:19">
+</topic>
+<topic uuid="89C7275C-AE0E-4146-8427-8E864805DD1D" position="{361, 182}" text="Zásada řízení ICT Z12: Řízení kapacit zdrojů" created="2019-10-16T13:54:19" modified="2019-10-16T13:54:19">
+</topic>
+<topic uuid="DC1CC6A3-2561-4999-B718-B1E1413038B4" position="{358, 240}" text="Zásada řízení ICT Z13: Nezávislost návrhu, řízení a kontroly kvality" created="2019-10-16T13:54:19" modified="2019-10-16T13:54:19">
+</topic>
+<topic uuid="D64EC233-7BCC-45FB-9C06-BE514BE82F6F" position="{357, 306}" text="Zásada řízení ICT Z14: Vztah informatiky a legislativy" created="2019-10-16T13:54:19" modified="2019-10-16T13:54:19">
+</topic>
+<topic uuid="558F7B7B-1866-48CC-9994-460621B07CE9" position="{366, 364}" text="Zásada řízení ICT Z15: Řízení financování ICT" created="2019-10-16T13:54:19" modified="2019-10-16T13:54:19">
+</topic>
+<topic uuid="75CB2B85-AA0E-4643-A5FF-ABCDCD2D8767" position="{365, 422}" text="Zásada řízení ICT Z16: Využívání otevřeného software a standardů" created="2019-10-16T13:54:19" modified="2019-10-16T13:54:19">
+</topic>
+<topic uuid="F410441B-9436-4324-9E72-843448882280" position="{363, 488}" text="Zásada řízení ICT Z17: Podpora vyváženého partnerství s dodavateli" created="2019-10-16T13:54:19" modified="2019-10-16T13:54:19">
+</topic>
+</topic>
+<topic uuid="9E2ACA0E-205A-45F8-92FE-1B84B7AF8C78" position="{311, 1082}" text="Cíle Informační koncepce ČR" created="2019-10-16T13:54:19" modified="2019-10-16T13:54:19">
+<topic uuid="ED2BFA2F-37B0-41E0-9512-EB3753F46744" position="{338, -1139}" text="Hlavní cíl č. 1: UŽIVATELSKY PŘÍVĚTIVÉ A EFEKTIVNÍ „ON-LINE“ SLUŽBY PRO OBČANY A FIRMY" created="2019-10-16T13:54:19" modified="2019-10-16T13:54:19">
+<topic uuid="266276B1-BAC7-498F-87AA-DD756D50D2DE" position="{379, -215}" text="Dílčí cíl 1.1: Katalog služeb veřejné správy" created="2019-10-16T13:54:19" modified="2019-10-16T13:54:19">
+</topic>
+<topic uuid="6A7A192C-88A9-40C7-9936-A25741E4867D" position="{390, -165}" text="Dílčí cíl 1.2: Informování o službách veřejnosti" created="2019-10-16T13:54:19" modified="2019-10-16T13:54:19">
+</topic>
+<topic uuid="708F04B2-0135-48B6-A174-5CDD683B1BDA" position="{388, -107}" text="Dílčí cíl 1.3: Rozvoj univerzálních front-office služeb" created="2019-10-16T13:54:19" modified="2019-10-16T13:54:19">
+</topic>
+<topic uuid="700D9A1D-8425-4E63-B6BD-14209DB16530" position="{389, -49}" text="Dílčí cíl 1.4: Rozvoj klientských služeb resortů" created="2019-10-16T13:54:19" modified="2019-10-16T13:54:19">
+</topic>
+<topic uuid="7795CC31-51D4-4357-9871-5EFA0EF5C405" position="{372, 9}" text="Dílčí cíl 1.5: Rozvoj Národního katalogu otevřených dat" created="2019-10-16T13:54:19" modified="2019-10-16T13:54:19">
+</topic>
+<topic uuid="B90DDCFD-CD48-4B3D-97CC-FFDF59C831C6" position="{392, 75}" text="Dílčí cíl 1.6: Stanovení rolí a zodpovědnosti za služby OVM" created="2019-10-16T13:54:19" modified="2019-10-16T13:54:19">
+</topic>
+<topic uuid="419935A9-D6EC-49E3-9D1B-47562C8E3B5B" position="{377, 141}" text="Dílčí cíl 1.7: Systém zapojení veřejnosti a subjektů do zlepšování EG služeb" created="2019-10-16T13:54:19" modified="2019-10-16T13:54:19">
+</topic>
+<topic uuid="ED19C6C1-A56F-457C-8CC7-81B06892BDDE" position="{384, 207}" text="Dílčí cíl 1.8: Metodiky a principy uživatelské přívětivosti" created="2019-10-16T13:54:19" modified="2019-10-16T13:54:19">
+</topic>
+</topic>
+<topic uuid="00B58EE9-E2F7-4EC5-A6C2-D951951C264B" position="{323, -643}" text="Hlavní cíl č. 2: DIGITÁLNĚ PŘÍVĚTIVÁ LEGISLATIVA" created="2019-10-16T13:54:19" modified="2019-10-16T13:54:19">
+<topic uuid="C2892672-A9B4-4776-9C59-44C2A7740378" position="{363, -223}" text="Dílčí cíl 2.1: Zavedení DPL jako součást v přípravě a hodnocení legislativy" created="2019-10-16T13:54:19" modified="2019-10-16T13:54:19">
+</topic>
+<topic uuid="16FFDE20-70B3-449E-919B-ED924CC00EB7" position="{376, -157}" text="Dílčí cíl 2.2: Spolupracovat na evropské úrovni k DPL" created="2019-10-16T13:54:19" modified="2019-10-16T13:54:19">
+</topic>
+<topic uuid="59E101C4-1CDC-4F07-91BC-01865A317622" position="{366, -99}" text="Dílčí cíl 2.3: Projekty eSbírka a eLegislativa" created="2019-10-16T13:54:19" modified="2019-10-16T13:54:19">
+</topic>
+<topic uuid="6BCC4636-2C51-470A-9D62-16F4E760ECB6" position="{367, -41}" text="Dílčí cíl 2.4: Analyzování a úpravy právních předpisů pro služby EG" created="2019-10-16T13:54:19" modified="2019-10-16T13:54:19">
+</topic>
+<topic uuid="744B10ED-E390-40E5-BA51-75D6632103C8" position="{358, 25}" text="Dílčí cíl 2.5: Zakotvení práva na digitální služby" created="2019-10-16T13:54:19" modified="2019-10-16T13:54:19">
+</topic>
+<topic uuid="35CF055D-0864-49A1-83F5-3832870F1339" position="{345, 91}" text="Dílčí cíl 2.6: Aktualizace legislativy k eGovernmentu" created="2019-10-16T13:54:19" modified="2019-10-16T13:54:19">
+</topic>
+<topic uuid="F7232B06-1143-4876-9F45-EF86115E57C3" position="{367, 157}" text="Dílčí cíl 2.7: Analýza služeb EG směrem ke komerčnímu sektoru a klientům" created="2019-10-16T13:54:19" modified="2019-10-16T13:54:19">
+</topic>
+<topic uuid="4A848F46-B757-4B4E-B284-4680F4BEDAFD" position="{370, 223}" text="Dílčí cíl 2.8: Metodika pro veřejné zakázky v ICT a EG" created="2019-10-16T13:54:19" modified="2019-10-16T13:54:19">
+</topic>
+</topic>
+<topic uuid="30D325EB-1ADB-4EFA-BE1B-FDF48B9F698A" position="{319, -164}" text="Hlavní cíl č. 3: ROZVOJ PROSTŘEDÍ PODPORUJÍCÍHO DIGITÁLNÍ TECHNOLOGIE V OBLASTI eGOVERNMENTU" created="2019-10-16T13:54:19" modified="2019-10-16T13:54:19">
+<topic uuid="6F454676-ED51-49C0-ABAE-94846BA21E99" position="{370, -190}" text="Dílčí cíl 3.1: Využití prostředků ESF na rozvoj digitalizace" created="2019-10-16T13:54:19" modified="2019-10-16T13:54:19">
+</topic>
+<topic uuid="C2A9EE15-BAF2-4952-A32B-EBA002204043" position="{325, -124}" text="Dílčí cíl 3.2: Digitalizace dosud nedigitalizovaného obsahu" created="2019-10-16T13:54:19" modified="2019-10-16T13:54:19">
+</topic>
+<topic uuid="66F2D5E0-1214-439B-A42E-92D8E078953E" position="{362, -58}" text="Dílčí cíl 3.3: Digitalizace a správa úředních dokumentů a úředního obsahu" created="2019-10-16T13:54:19" modified="2019-10-16T13:54:19">
+</topic>
+<topic uuid="D3DAE0B6-7CF5-42CE-9D8D-8E68149214CE" position="{351, 8}" text="Dílčí cíl 3.4: Zkvalitnění Registru práv a povinností a jeho obsahu" created="2019-10-16T13:54:19" modified="2019-10-16T13:54:19">
+</topic>
+<topic uuid="84FA9715-D91F-446A-8360-191C8C926F03" position="{372, 74}" text="Dílčí cíl 3.5: Rozvoj komunikační infrastruktury státu" created="2019-10-16T13:54:19" modified="2019-10-16T13:54:19">
+</topic>
+<topic uuid="21670CAE-CBF8-4A16-BBCF-3F45E566C3A3" position="{357, 140}" text="Dílčí cíl 3.6: Rozvoj systémů elektronické identifikace (EID)" created="2019-10-16T13:54:19" modified="2019-10-16T13:54:19">
+</topic>
+<topic uuid="F86F64F6-A5AB-40B6-A424-9914464D65B5" position="{354, 198}" text="Dílčí cíl 3.7: Digitální technická mapa ČR" created="2019-10-16T13:54:19" modified="2019-10-16T13:54:19">
+</topic>
+</topic>
+<topic uuid="26FEF148-7557-4BA1-B242-8BFBD85BE6E6" position="{314, 331}" text="Hlavní cíl č. 4: ZVÝŠENÍ KAPACIT A KOMPETENCÍ ZAMĚSTNANCŮ VE VEŘEJNÉ SPRÁVĚ" created="2019-10-16T13:54:19" modified="2019-10-16T13:54:19">
+<topic uuid="32415A02-C782-4380-BBC5-7DE9310218E3" position="{332, -239}" text="Dílčí cíl 4.1: Úpravy systemizace a katalogizace profesí v IT a DPL" created="2019-10-16T13:54:19" modified="2019-10-16T13:54:19">
+</topic>
+<topic uuid="36928CCD-B87C-4B7F-A353-207495818E44" position="{359, -173}" text="Dílčí cíl 4.2: Opatření pro získání a udržení klíčových specialistů v rámci veřejné správy" created="2019-10-16T13:54:19" modified="2019-10-16T13:54:19">
+</topic>
+<topic uuid="89B1666B-8E27-44B5-AF38-D49FF60A1511" position="{366, -107}" text="Dílčí cíl 4.3: Intenzivní spolupráce s vysokými školami" created="2019-10-16T13:54:19" modified="2019-10-16T13:54:19">
+</topic>
+<topic uuid="EA02E251-B680-4CA7-A1F9-3481980BBDA3" position="{357, -41}" text="Dílčí cíl 4.4: Sdílená kompetenční centra a zvyšování kapacit" created="2019-10-16T13:54:19" modified="2019-10-16T13:54:19">
+</topic>
+<topic uuid="4FBB6DCE-267F-48E8-BF26-9407F10E01BF" position="{368, 25}" text="Dílčí cíl 4.5: Institucionalizace klíčových útvarů a rolí v úřadech" created="2019-10-16T13:54:19" modified="2019-10-16T13:54:19">
+</topic>
+<topic uuid="BC31FAE9-97DE-47F3-AB63-075E95B0B92D" position="{368, 91}" text="Dílčí cíl 4.6: Kompetence a zdroje pro realizaci změn" created="2019-10-16T13:54:19" modified="2019-10-16T13:54:19">
+</topic>
+<topic uuid="17AEDDB3-DAAD-4185-B112-CC075074107F" position="{355, 157}" text="Dílčí cíl 4.7: Zavedení procesního řízení a řízení služeb ve veřejné správě" created="2019-10-16T13:54:19" modified="2019-10-16T13:54:19">
+</topic>
+<topic uuid="8E052FB7-9DA1-4CB7-ACBD-8A0079B6F813" position="{368, 231}" text="Dílčí cíl 4.8: Rozvoj systému vzdělávání a odborné přípravy zaměstnanců veřejné správy směrem k EG" created="2019-10-16T13:54:19" modified="2019-10-16T13:54:19">
+</topic>
+</topic>
+<topic uuid="742639C0-0071-4E7D-8158-191BFCF93AB2" position="{334, 991}" text="Hlavní cíl č. 5: EFEKTIVNÍ A CENTRÁLNĚ KOORDINOVANÉ ICT VEŘEJNÉ SPRÁVY" created="2019-10-16T13:54:19" modified="2019-10-16T13:54:19">
+<topic uuid="9AB8D51A-EBA8-44CD-AD09-22EF83A9C7B7" position="{373, -355}" text="Dílčí cíl 5.1: Implementace procesu řízení IKČR" created="2019-10-16T13:54:19" modified="2019-10-16T13:54:19">
+</topic>
+<topic uuid="73256CE8-DAE6-44D8-B159-C7EC470A5882" position="{372, -289}" text="Dílčí cíl 5.2: Alokace lidských a institucionálních zdrojů pro realizaci IKČR" created="2019-10-16T13:54:19" modified="2019-10-16T13:54:19">
+</topic>
+<topic uuid="3DA8AC58-5453-4FDF-8A50-81A881327D47" position="{376, -223}" text="Dílčí cíl 5.3: Zavedení principů pro řízení a rozvoj architektury v úřadech" created="2019-10-16T13:54:19" modified="2019-10-16T13:54:19">
+</topic>
+<topic uuid="FCE7FCC8-47A7-4F5B-B182-C2396AF18A27" position="{376, -157}" text="Dílčí cíl 5.4: Realizace modelu spolupráce OVM a podniků poskytujících infrastrukturu" created="2019-10-16T13:54:19" modified="2019-10-16T13:54:19">
+</topic>
+<topic uuid="7C0EAE9D-87B4-4DDF-9ADA-BE521E337C35" position="{342, -99}" text="Dílčí cíl 5.5: eGovernment cloud" created="2019-10-16T13:54:19" modified="2019-10-16T13:54:19">
+</topic>
+<topic uuid="E8B04C5F-1181-43F1-8FFA-C0B5A5627B2C" position="{383, -49}" text="Dílčí cíl 5.6: Standardizace v EG a aslužbách" created="2019-10-16T13:54:19" modified="2019-10-16T13:54:19">
+</topic>
+<topic uuid="08122A6E-C805-4605-B5E3-D4FD39DA601A" position="{384, 17}" text="Dílčí cíl 5.7: Podpora agend vykonávaných v přenesené působnosti formou sdílení údajů a AISů" created="2019-10-16T13:54:19" modified="2019-10-16T13:54:19">
+</topic>
+<topic uuid="477ABC40-4978-48DE-B299-7A5F3886AC12" position="{387, 91}" text="Dílčí cíl 5.8: Podpora agendových systémů pro výkon samostatné působnosti" created="2019-10-16T13:54:19" modified="2019-10-16T13:54:19">
+</topic>
+<topic uuid="B90CD8CD-C836-42B2-9A22-6AE3B67BACCD" position="{377, 157}" text="Dílčí cíl 5.9: Rozvoj Propojeného datového fondu (PPDF)" created="2019-10-16T13:54:19" modified="2019-10-16T13:54:19">
+</topic>
+<topic uuid="3F9E2FF6-E1F0-4268-A152-BF30D44E88C8" position="{380, 223}" text="Dílčí cíl 5.10: Rozvoj otevřených dat a veřejného fondu dat a služeb veřejné správy" created="2019-10-16T13:54:19" modified="2019-10-16T13:54:19">
+</topic>
+<topic uuid="6BDB265A-15BD-4B52-875F-1574C65C2196" position="{361, 289}" text="Dílčí cíl 5.11: Rozvoj geoinformatiky a prostorových informací" created="2019-10-16T13:54:19" modified="2019-10-16T13:54:19">
+</topic>
+<topic uuid="B2C8B7D1-725E-44F3-A160-9A5AB7809CE6" position="{375, 355}" text="Dílčí cíl 5.12: Hodnocení realizace IKČR a zpětná vazba" created="2019-10-16T13:54:19" modified="2019-10-16T13:54:19">
+</topic>
+</topic>
+</topic>
+</topic>
+<topic uuid="2F4A3F84-995A-4617-9F21-3A69C8EDAAC2" position="{297, -1587}" text="Metody řízení ICT" created="2019-10-16T13:54:19" modified="2019-10-16T13:54:19">
+<topic uuid="647A6612-4211-4244-ABE3-DA289B6BC4BE" position="{295, -2059}" text="Předpoklady a východiska řízení ICT OVS" created="2019-10-16T13:54:19" modified="2019-10-16T13:54:19">
+<topic uuid="5211175A-F049-4766-A054-58B72FF2D824" position="{358, -199}" text="Legislativní a společenská východiska" created="2019-10-16T13:54:19" modified="2019-10-16T13:54:19">
+<topic uuid="5210AEB4-4311-4E19-91C2-B3089A6DD0E9" position="{340, -108}" text="Systémový dohled nad architekturou" created="2019-10-16T13:54:19" modified="2019-10-16T13:54:19">
+</topic>
+<topic uuid="3F1E341E-0A43-45DB-966F-4F97072CC1EE" position="{336, -58}" text="Systémový dohled nad řízením ICT" created="2019-10-16T13:54:19" modified="2019-10-16T13:54:19">
+</topic>
+<topic uuid="D48F7447-0525-475F-B3E8-EAB52E380F58" position="{299, -8}" text="Ekonomické souvislosti" created="2019-10-16T13:54:19" modified="2019-10-16T13:54:19">
+</topic>
+<topic uuid="3861F535-1C2E-443F-BFBB-35FAF2A72F3E" position="{319, 42}" text="Zákon o veřejných zakázkách" created="2019-10-16T13:54:19" modified="2019-10-16T13:54:19">
+</topic>
+<topic uuid="E4BF6BC2-0B4D-4F9D-9308-E99DB0E1E45C" position="{363, 100}" text="Řídící kontrola a další působení kontrolních orgánů" created="2019-10-16T13:54:19" modified="2019-10-16T13:54:19">
+</topic>
+</topic>
+<topic uuid="83313311-66AD-4A9D-B85D-A91A44222E29" position="{371, -33}" text="Úrovně řízení a zodpovědností ve veřejné správě" created="2019-10-16T13:54:19" modified="2019-10-16T13:54:19">
+</topic>
+<topic uuid="A6647521-8501-426A-B9F7-467CB430152A" position="{350, 66}" text="Funkční a procesní model ICT OVS" created="2019-10-16T13:54:19" modified="2019-10-16T13:54:19">
+<topic uuid="899707BF-B479-4E78-B801-54F968A33DA7" position="{357, -33}" text="Byznys architektura informatické schopnosti OVS" created="2019-10-16T13:54:19" modified="2019-10-16T13:54:19">
+</topic>
+<topic uuid="09FC3CB7-4FF9-4401-8E9E-A5123565FB2A" position="{362, 33}" text="Aplikační architektura informatické schopnosti OVS" created="2019-10-16T13:54:19" modified="2019-10-16T13:54:19">
+</topic>
+</topic>
+<topic uuid="A3C75F3F-5B4E-4181-90B1-9DE69B76D51A" position="{373, 157}" text="Ukazatele hodnocení úspěšnosti řízení ICT" created="2019-10-16T13:54:19" modified="2019-10-16T13:54:19">
+</topic>
+<topic uuid="E39C7C7A-42BD-4AFD-8A00-AB5AFD682401" position="{312, 207}" text="Čtyři vrstvy architektury" created="2019-10-16T13:54:19" modified="2019-10-16T13:54:19">
+</topic>
+<topic uuid="9E6DCAB0-A5A0-4338-B8CF-B6592637354F" position="{320, 257}" text="Pohled na úřad jako celek" created="2019-10-16T13:54:19" modified="2019-10-16T13:54:19">
+</topic>
+<topic uuid="6F32CBDD-5397-4144-B1C8-793FB4EFF50E" position="{355, 307}" text="Cílům a přínosům odpovídající zdroje" created="2019-10-16T13:54:19" modified="2019-10-16T13:54:19">
+</topic>
+</topic>
+<topic uuid="7C3D4820-DA1D-4FC1-BC02-9D01F24560AC" position="{258, -1122}" text="Řízení jednotlivých ICT řešení" created="2019-10-16T13:54:19" modified="2019-10-16T13:54:19">
+<topic uuid="91DDEE7F-D7FB-4DB4-B38D-7A78C0D06DB2" position="{346, -455}" text="Řízení informačních systémů podle etap a fází jejich životního cyklu" created="2019-10-16T13:54:19" modified="2019-10-16T13:54:19">
+<topic uuid="5704E2D7-919D-4D71-B8BA-38886462DED2" position="{320, -125}" text="Fáze 1 - STRATEGIE" created="2019-10-16T13:54:19" modified="2019-10-16T13:54:19">
+</topic>
+<topic uuid="D33DFF00-C7ED-4689-85A9-68F4893876CD" position="{342, -75}" text="Fáze 2 - PLÁN A PŘÍPRAVA" created="2019-10-16T13:54:19" modified="2019-10-16T13:54:19">
+</topic>
+<topic uuid="8181DFE0-C94D-41BF-981A-CE96FD78F858" position="{322, -25}" text="Fáze 3 – REALIZACE" created="2019-10-16T13:54:19" modified="2019-10-16T13:54:19">
+</topic>
+<topic uuid="6F61324E-D802-4C34-8F29-2A3FDF0E6DDA" position="{355, 25}" text="Fáze 4 - PRODUKČNÍ PROVOZ" created="2019-10-16T13:54:19" modified="2019-10-16T13:54:19">
+</topic>
+<topic uuid="DEAF0A46-E198-446F-B6DD-74712EC73CEF" position="{397, 75}" text="Fáze 5 - VYHODNOCENÍ provozu a služeb IS" created="2019-10-16T13:54:19" modified="2019-10-16T13:54:19">
+</topic>
+<topic uuid="BB7E6CCE-A73A-4A8E-8D34-AD08EBF179BF" position="{360, 125}" text="Fáze 6 - UKONČENÍ ICT SLUŽBY" created="2019-10-16T13:54:19" modified="2019-10-16T13:54:19">
+</topic>
+</topic>
+<topic uuid="8C5F66EA-AE00-4FAB-B7C8-7B25E5BC4187" position="{326, -90}" text="Zásady strategického plánování ISVS v kontextu architektury úřadu" created="2019-10-16T13:54:19" modified="2019-10-16T13:54:19">
+<topic uuid="03BFFD00-A078-4D48-AB99-92CBFE500985" position="{370, -182}" text="Přístup ex-ante k plánování a řízení změn a jejich přínosů" created="2019-10-16T13:54:19" modified="2019-10-16T13:54:19">
+</topic>
+<topic uuid="BD56528E-BEC1-48A4-B5A1-B350E4A13451" position="{363, -116}" text="Návaznost na byznys a IT strategii úřadu, korporace a eGovernmentu" created="2019-10-16T13:54:19" modified="2019-10-16T13:54:19">
+</topic>
+<topic uuid="0CC4A7AD-1E7B-429B-B720-ED0D8AED8975" position="{344, -50}" text="Enterprise architektura ISVS a jeho architektura řešení" created="2019-10-16T13:54:19" modified="2019-10-16T13:54:19">
+</topic>
+<topic uuid="E954AF8A-43C1-4830-8222-308D33142ECC" position="{369, 16}" text="ISVS v Informační koncepci orgánu veřejné správy" created="2019-10-16T13:54:19" modified="2019-10-16T13:54:19">
+</topic>
+<topic uuid="01635835-C52E-499D-8D66-DA8AA7338E4A" position="{345, 74}" text="Řízení služeb informačního systému" created="2019-10-16T13:54:19" modified="2019-10-16T13:54:19">
+</topic>
+<topic uuid="0E529CDA-E2DF-4839-81F3-A1259FD18B26" position="{332, 124}" text="Pravidla plánování rozvoje ISVS" created="2019-10-16T13:54:19" modified="2019-10-16T13:54:19">
+</topic>
+<topic uuid="AE9FC326-7C7B-4A12-A881-79BE891B4F7D" position="{372, 182}" text="Pravidla ukončení provozu ISVS a přechodu na jiný" created="2019-10-16T13:54:19" modified="2019-10-16T13:54:19">
+</topic>
+</topic>
+<topic uuid="82C9A9D6-350E-4463-BDE2-53785B3A9FC4" position="{333, 241}" text="Zásady pro výběr a pořízení informačních systémů veřejné správy" created="2019-10-16T13:54:19" modified="2019-10-16T13:54:19">
+<topic uuid="EDA420EE-95D1-49A5-A1C3-CA72F41B86CF" position="{371, -91}" text="Pravidla pro financování pořízení IT řešení" created="2019-10-16T13:54:20" modified="2019-10-16T13:54:20">
+</topic>
+<topic uuid="3CE86A25-EB6E-4365-81C9-2DF24D6CE601" position="{371, -33}" text="Pravidla rozhodování o způsobu realizace řešení ICT" created="2019-10-16T13:54:20" modified="2019-10-16T13:54:20">
+</topic>
+<topic uuid="52EFB5B3-E20A-4BA6-915A-A7E22D2771C2" position="{349, 25}" text="Pravidla pro lepší nákup ICT řešení" created="2019-10-16T13:54:20" modified="2019-10-16T13:54:20">
+</topic>
+<topic uuid="9E2BEC49-39A1-4E11-846A-F86078E542A7" position="{377, 83}" text="Koncepce řízení úspěšné realizace projektů navržených ICT změn" created="2019-10-16T13:54:20" modified="2019-10-16T13:54:20">
+</topic>
+</topic>
+<topic uuid="46DC55F4-FAB4-43ED-89C7-6A3CA5C17C9A" position="{345, 456}" text="Pravidla efektivního řízení provozu a dodávky služeb, nákupu služeb a průběžného zlepšování" created="2019-10-16T13:54:20" modified="2019-10-16T13:54:20">
+<topic uuid="53FEEF6B-03AF-4355-9F06-07B9E39A20CF" position="{388, -66}" text="Budování a údržba kompetencí k provozu a rozvoji IT řešení" created="2019-10-16T13:54:20" modified="2019-10-16T13:54:20">
+</topic>
+<topic uuid="AA3359AA-3790-4BC2-A91B-7E1D3FA43BAD" position="{367, 0}" text="Zásady a postupy pro provozování informačních systémů veřejné správy" created="2019-10-16T13:54:20" modified="2019-10-16T13:54:20">
+</topic>
+<topic uuid="F4AC8321-7051-4EA8-B543-1E7BCABA9CCB" position="{379, 66}" text="Zásady péče o klienty a uživatele služeb informačních systémů" created="2019-10-16T13:54:20" modified="2019-10-16T13:54:20">
+</topic>
+</topic>
+<topic uuid="0DC3FC4E-B025-4B59-A200-DFE3C5545147" position="{343, 580}" text="Pravidla nepřímého řízení (governance) ISVS" created="2019-10-16T13:54:20" modified="2019-10-16T13:54:20">
+</topic>
+</topic>
+<topic uuid="A803CCFA-25DE-4D5D-9117-97FEA362C449" position="{267, -218}" text="Řízení na úrovni útvaru ICT OVS" created="2019-10-16T13:54:20" modified="2019-10-16T13:54:20">
+<topic uuid="0B41F13A-A2C5-4AFE-99B6-2C2B74BD2309" position="{317, -274}" text="Klíčové principy řízení ICT v úřadu" created="2019-10-16T13:54:20" modified="2019-10-16T13:54:20">
+</topic>
+<topic uuid="3954E3E6-E865-419E-9A4E-3DB0A4F8BDAA" position="{326, -216}" text="Přístup k organizaci a managementu informatiky" created="2019-10-16T13:54:20" modified="2019-10-16T13:54:20">
+</topic>
+<topic uuid="A9F06674-AB02-4C13-ABC6-2AF2FD9AC60E" position="{305, -158}" text="Vlastní architektura útvaru ICT" created="2019-10-16T13:54:20" modified="2019-10-16T13:54:20">
+</topic>
+<topic uuid="369A289C-9E31-47F6-BAB3-2821E401DE0A" position="{353, -100}" text="Personální politika a rozvoj lidských zdrojů ve vztahu k ICT VS" created="2019-10-16T13:54:20" modified="2019-10-16T13:54:20">
+<topic uuid="1C92E29F-6E9C-46B6-BB28-00E239B2E148" position="{393, 0}" text="Přístup k rozvoji lidských zdrojů informatizace" created="2019-10-16T13:54:20" modified="2019-10-16T13:54:20">
+</topic>
+</topic>
+<topic uuid="0EDB99DF-E875-4F95-8305-0B06CAD401FD" position="{333, -42}" text="Rozvoj a udržení znalostí a kompetencí" created="2019-10-16T13:54:20" modified="2019-10-16T13:54:20">
+<topic uuid="8E1C0450-BF1F-4554-BAC8-52171E2E4E00" position="{334, 0}" text="Vztah profese ICT a státní služby" created="2019-10-16T13:54:20" modified="2019-10-16T13:54:20">
+</topic>
+</topic>
+<topic uuid="43614BAF-CB12-4DDA-88D2-8E623336D92A" position="{314, 116}" text="Ekonomické a finanční řízení ICT" created="2019-10-16T13:54:20" modified="2019-10-16T13:54:20">
+<topic uuid="6111A9C0-285A-43DE-B13C-F04F655F9B0F" position="{345, -108}" text="Sestavování rozpočtu, rozpočtová opatření" created="2019-10-16T13:54:20" modified="2019-10-16T13:54:20">
+</topic>
+<topic uuid="11C6A046-8ABE-48BD-90B6-1C3C216AB17C" position="{303, -58}" text="Reporting a kontrola rozpočtu" created="2019-10-16T13:54:20" modified="2019-10-16T13:54:20">
+</topic>
+<topic uuid="400F9975-9EF6-4A33-9179-C7728E42A2AE" position="{347, 0}" text="Koncepce řízení ekonomiky ICT ve veřejné správě" created="2019-10-16T13:54:20" modified="2019-10-16T13:54:20">
+</topic>
+<topic uuid="CAC164CC-A44C-4D12-B0C3-CF9E07C6F923" position="{342, 58}" text="Řízení smluv a závazků vůči dodavatelům" created="2019-10-16T13:54:20" modified="2019-10-16T13:54:20">
+</topic>
+<topic uuid="9CE7494D-DF34-4E98-9A51-4C4D4BECD0B9" position="{289, 108}" text="Komplexní správa licencí" created="2019-10-16T13:54:20" modified="2019-10-16T13:54:20">
+</topic>
+</topic>
+<topic uuid="EAAAFC74-4603-4395-BA43-C0E7E62EEFC5" position="{345, 274}" text="Správa vlastních informačních systémů ICT" created="2019-10-16T13:54:20" modified="2019-10-16T13:54:20">
+</topic>
+</topic>
+<topic uuid="48B89DDE-87C9-41FF-A32E-3DB77FD18395" position="{287, 189}" text="Strategické plánování a řízení ICT OVS" created="2019-10-16T13:54:20" modified="2019-10-16T13:54:20">
+<topic uuid="5E80C6D4-D86B-4EAF-B82C-803F40352CEF" position="{365, -75}" text="Přístup ke strategickému řízení informatiky prostřednictvím architektury úřadu" created="2019-10-16T13:54:20" modified="2019-10-16T13:54:20">
+</topic>
+<topic uuid="1D13B065-6BC5-4E10-A77B-541F778931BD" position="{312, -17}" text="Informační koncepce OVS" created="2019-10-16T13:54:20" modified="2019-10-16T13:54:20">
+</topic>
+<topic uuid="DA6D2304-2925-4F7F-B2EA-505A6F4043BF" position="{348, 33}" text="Další metody strategického řízení ICT" created="2019-10-16T13:54:20" modified="2019-10-16T13:54:20">
+</topic>
+<topic uuid="8D64B542-C850-4541-8C17-3AA54C49141D" position="{334, 83}" text="Plán realizace změn (Roadmapa)" created="2019-10-16T13:54:20" modified="2019-10-16T13:54:20">
+</topic>
+</topic>
+<topic uuid="DF22FE54-B64C-47CA-8AF5-0FFC797B52D0" position="{306, 380}" text="Řízení identifikace a realizace změn ICT OVS" created="2019-10-16T13:54:20" modified="2019-10-16T13:54:20">
+<topic uuid="7A347714-37D2-48D5-A59B-8AB22FE10028" position="{392, -50}" text="Sběr a vyhodnocování požadavků na změny, jejich řízení a klasifikace" created="2019-10-16T13:54:20" modified="2019-10-16T13:54:20">
+</topic>
+<topic uuid="D58E3C61-91D3-43CF-8FB0-B684986913A4" position="{355, 8}" text="Řízení projektů a programů úřadu" created="2019-10-16T13:54:20" modified="2019-10-16T13:54:20">
+</topic>
+<topic uuid="38378AB5-D1B4-4223-988B-15646E1E05E8" position="{395, 58}" text="Realizace malých změn - průběžné zlepšování" created="2019-10-16T13:54:20" modified="2019-10-16T13:54:20">
+</topic>
+</topic>
+<topic uuid="252373D6-C5D3-4135-A05A-4B4B397FA19C" position="{276, 546}" text="Řízení provozu IS a dodávky služeb" created="2019-10-16T13:54:20" modified="2019-10-16T13:54:20">
+<topic uuid="7BEF8D93-719A-4676-9DAA-663D21929DEF" position="{361, -58}" text="Řízení podpory klientů a uživatelů ICT služeb" created="2019-10-16T13:54:20" modified="2019-10-16T13:54:20">
+</topic>
+<topic uuid="FE4B28A8-7377-4ED2-85F3-7DA5F89C059D" position="{363, 0}" text="Řízení provozu výpočetních a komunikačních technologií" created="2019-10-16T13:54:20" modified="2019-10-16T13:54:20">
+</topic>
+<topic uuid="9C86CDC2-1B49-421E-AAFA-4A64C682610C" position="{321, 58}" text="Monitoring provozu a služeb ICT" created="2019-10-16T13:54:20" modified="2019-10-16T13:54:20">
+</topic>
+</topic>
+<topic uuid="22191CDB-0E66-4863-9528-8F26436F8B95" position="{284, 679}" text="Řízení rizik a bezpečnosti v ICT útvaru" created="2019-10-16T13:54:20" modified="2019-10-16T13:54:20">
+<topic uuid="886882B8-084F-459F-8FCF-6D9664EDCA7C" position="{303, -25}" text="Řízení rizik v ICT útvaru" created="2019-10-16T13:54:20" modified="2019-10-16T13:54:20">
+</topic>
+<topic uuid="AA058A47-C7F3-4DFC-8AD5-6A3B626D3B0F" position="{301, 25}" text="Řízení ICT bezpečnosti" created="2019-10-16T13:54:20" modified="2019-10-16T13:54:20">
+</topic>
+</topic>
+<topic uuid="3AA9F949-D93D-4791-905D-F259681E9AED" position="{236, 862}" text="Správa a řízení IT aktiv" created="2019-10-16T13:54:20" modified="2019-10-16T13:54:20">
+<topic uuid="74321CB9-7E9D-4E23-BFEB-AED3DAE0A449" position="{285, -108}" text="Správa celkového portfolia služeb" created="2019-10-16T13:54:20" modified="2019-10-16T13:54:20">
+</topic>
+<topic uuid="5FCDB0BD-4ACE-433B-B763-9B66D433CCD4" position="{267, -58}" text="Správa aplikačního portfolia" created="2019-10-16T13:54:20" modified="2019-10-16T13:54:20">
+</topic>
+<topic uuid="AEFD2109-2A88-4E3E-9280-A14282BB90F3" position="{282, -8}" text="Správa technologického portfolia" created="2019-10-16T13:54:20" modified="2019-10-16T13:54:20">
+</topic>
+<topic uuid="421188A8-8729-4F7D-9679-340F579CA35A" position="{269, 42}" text="Správa datových fondů OVS" created="2019-10-16T13:54:20" modified="2019-10-16T13:54:20">
+</topic>
+<topic uuid="BE2B1A9C-8EC7-40A5-B4D0-2D3A72827C06" position="{311, 100}" text="Odlišný přístup k pořizování a správě ICT komodit" created="2019-10-16T13:54:20" modified="2019-10-16T13:54:20">
+</topic>
+</topic>
+<topic uuid="E390EBF7-6C2E-4E4D-A612-99059FA9AEF0" position="{293, 1070}" text="Přístup k nepřímému řízení a dohledu na informatizaci (governance)" created="2019-10-16T13:54:20" modified="2019-10-16T13:54:20">
+<topic uuid="1C6CEF9C-5781-432A-B689-1A327AAAC39A" position="{330, -50}" text="Zavedení řízení kvality služeb" created="2019-10-16T13:54:20" modified="2019-10-16T13:54:20">
+</topic>
+<topic uuid="6E0BF8EC-AA85-4A32-95BA-D42309DF545C" position="{380, 0}" text="Reporting pro management a governance ICT" created="2019-10-16T13:54:20" modified="2019-10-16T13:54:20">
+</topic>
+<topic uuid="DB355627-6181-494D-9A7F-72793E4A7511" position="{336, 50}" text="ICT Controlling a benchmarking" created="2019-10-16T13:54:20" modified="2019-10-16T13:54:20">
+</topic>
+</topic>
+<topic uuid="A5F05F85-A93D-41D9-BFDD-0401E4E84232" position="{247, 1170}" text="Standardizace v řízení ICT" created="2019-10-16T13:54:20" modified="2019-10-16T13:54:20">
+</topic>
+<topic uuid="0DD47085-8C5C-4364-AD6A-E79EAB189B8F" position="{284, 1253}" text="Spolupráce s ostatními útvary úřadu a eGovernmentu" created="2019-10-16T13:54:20" modified="2019-10-16T13:54:20">
+<topic uuid="831362B2-3637-49F5-B5E5-A12EE0EFCADE" position="{363, -33}" text="Podpora útvarů péče o klienty služeb úřadu" created="2019-10-16T13:54:20" modified="2019-10-16T13:54:20">
+</topic>
+<topic uuid="82DB76CA-2535-4026-9B27-EDF17E159CA7" position="{370, 25}" text="Integrovaný externí ServiceDesk pro digitální služby" created="2019-10-16T13:54:20" modified="2019-10-16T13:54:20">
+</topic>
+</topic>
+<topic uuid="F8500007-D4C9-4114-AF66-79F7E49B09D8" position="{309, 1336}" text="Přístup k legislativní podpoře informatizace VS" created="2019-10-16T13:54:20" modified="2019-10-16T13:54:20">
+<topic uuid="8E6D1CB8-30FB-483E-9234-82D8C5D7569F" position="{342, 0}" text="Digitálně přívětivá legislativa" created="2019-10-16T13:54:20" modified="2019-10-16T13:54:20">
+</topic>
+</topic>
+<topic uuid="4C29E0AE-1878-4D7B-BA0A-641FEE15E532" position="{296, 1411}" text="IT bezpečnost a ochrana údajů v kontextu úřadu" created="2019-10-16T13:54:20" modified="2019-10-16T13:54:20">
+<topic uuid="C36B764C-282F-4EB1-9A33-48F0292F985D" position="{359, -25}" text="Podíl IT na celkové bezpečnosti úřadu" created="2019-10-16T13:54:20" modified="2019-10-16T13:54:20">
+</topic>
+<topic uuid="C495A182-1CDE-49AC-B932-338FB4B7F82E" position="{349, 25}" text="Podíl IT na ochraně údajů a GDPR" created="2019-10-16T13:54:20" modified="2019-10-16T13:54:20">
+</topic>
+</topic>
+<topic uuid="B9753641-692E-4757-BDBE-1506C1632C9D" position="{293, 1594}" text="Spolupráce s ostatními provozními útvary" created="2019-10-16T13:54:20" modified="2019-10-16T13:54:20">
+<topic uuid="9085AB50-7F69-47EB-A354-C57CEF9AA848" position="{345, -108}" text="Spolupráce s ekonomickými útvary" created="2019-10-16T13:54:20" modified="2019-10-16T13:54:20">
+</topic>
+<topic uuid="F166E3AB-19AC-44D1-A98E-80FDDE526021" position="{340, -58}" text="Spolupráce s personálními útvary" created="2019-10-16T13:54:20" modified="2019-10-16T13:54:20">
+</topic>
+<topic uuid="61DD4B6A-0008-4F37-A69C-13751E4B63E4" position="{349, -8}" text="Spolupráce na veřejných zakázkách" created="2019-10-16T13:54:20" modified="2019-10-16T13:54:20">
+</topic>
+<topic uuid="5C8E29E6-9284-49BD-B22A-964D5ADD2FA3" position="{346, 42}" text="Spolupráce se správou nemovitostí" created="2019-10-16T13:54:20" modified="2019-10-16T13:54:20">
+</topic>
+<topic uuid="AF8D4F29-8424-43DD-B073-E2CC0D395D67" position="{377, 100}" text="Společné zapojení v centru sdílených služeb pro zaměstnance" created="2019-10-16T13:54:20" modified="2019-10-16T13:54:20">
+</topic>
+</topic>
+<topic uuid="40FA5EBE-B694-46A9-AC8E-6EB13FCC9E6D" position="{279, 1810}" text="Centrální koordinace řízení ICT státu" created="2019-10-16T13:54:20" modified="2019-10-16T13:54:20">
+<topic uuid="B600E69B-1357-41E7-8E4C-AE7C1F9E6F3D" position="{297, -58}" text="Ekonomická koordinace" created="2019-10-16T13:54:20" modified="2019-10-16T13:54:20">
+</topic>
+<topic uuid="4697D85D-1BED-42EF-AB2C-2B90615B9307" position="{353, 0}" text="Koordinace realizace změn a dosahování přínosů" created="2019-10-16T13:54:20" modified="2019-10-16T13:54:20">
+</topic>
+<topic uuid="2DF308CF-21AC-4459-A93A-215EE736A82A" position="{298, 58}" text="Řízení licencí a OSS/FS" created="2019-10-16T13:54:20" modified="2019-10-16T13:54:20">
+</topic>
+</topic>
+<topic uuid="A3A23FB5-70E9-45DF-86BB-D8AED2D6108B" position="{293, 2109}" text="Postup a plán realizace změn (Roadmap)" created="2019-10-16T13:54:20" modified="2019-10-16T13:54:20">
+<topic uuid="1FE0364E-19D7-4184-AA1C-71FA52121A1C" position="{377, -191}" text="Prioritizace změnových opatření státu a OVS" created="2019-10-16T13:54:20" modified="2019-10-16T13:54:20">
+</topic>
+<topic uuid="69EF1A91-298D-4B44-BA00-CA4F8D4F85CF" position="{382, -133}" text="Doporučený postup realizace žádoucího stavu v OVS" created="2019-10-16T13:54:20" modified="2019-10-16T13:54:20">
+</topic>
+<topic uuid="EA5D72CE-CAE8-4FA7-8FF3-9F4B4325DB31" position="{296, -75}" text="Nastartování změn" created="2019-10-16T13:54:20" modified="2019-10-16T13:54:20">
+</topic>
+<topic uuid="4F2A6C89-EBDE-4EC3-9189-EBB716076F89" position="{340, 8}" text="Přehled a plán změn (akční plán)" created="2019-10-16T13:54:20" modified="2019-10-16T13:54:20">
+<topic uuid="A4B2C41D-24B5-4D4E-8D59-D096E62F7B47" position="{356, -25}" text="Vytvoření Znalostní báze Metod řízení ICT VS ČR" created="2019-10-16T13:54:20" modified="2019-10-16T13:54:20">
+</topic>
+<topic uuid="F1D975B5-D289-44EA-811F-5129C3557D7F" position="{339, 33}" text="Nutné organizační a kompetenční změny" created="2019-10-16T13:54:20" modified="2019-10-16T13:54:20">
+</topic>
+</topic>
+<topic uuid="2FD1BDF6-165D-40A7-817C-B91F53D3A682" position="{358, 91}" text="Analýza rizik a strategie jejich zmírnění" created="2019-10-16T13:54:20" modified="2019-10-16T13:54:20">
+</topic>
+<topic uuid="9E694D27-497A-433C-8FC3-536F6DE910A9" position="{297, 141}" text="Monitoring postupu" created="2019-10-16T13:54:20" modified="2019-10-16T13:54:20">
+</topic>
+<topic uuid="9F349048-F0EF-4556-9320-8F9328C408DC" position="{357, 191}" text="Aktualizace koncepce a akčního plánu" created="2019-10-16T13:54:20" modified="2019-10-16T13:54:20">
+</topic>
+</topic>
+<topic uuid="383426AA-B69F-4CE1-884D-F800EB512F67" position="{301, 2358}" text="Přehledy klíčových povinností při řízení ICT VS" created="2019-10-16T13:54:20" modified="2019-10-16T13:54:20">
+<topic uuid="F195C7FD-F4C2-4368-B92D-0CA2B2F960DA" position="{383, 0}" text="Provázanost legislativních povinností útvarů ICT" created="2019-10-16T13:54:20" modified="2019-10-16T13:54:20">
+</topic>
+</topic>
+</topic>
+<topic uuid="AAB6B329-9178-4688-96AF-47F80AC17193" position="{336, 2712}" text="Národní architektonický rámec" created="2019-10-16T13:54:20" modified="2019-10-16T13:54:20">
+<topic uuid="7BC23BF6-AE6C-4FEC-A953-8D90F20D05AD" position="{317, -1817}" text="Modelující úřady a jejich architektury" created="2019-10-16T13:54:20" modified="2019-10-16T13:54:20">
+<topic uuid="E4EF5DE3-7D19-4637-9C7A-25EF7AACA0A7" position="{358, 0}" text="Rozsah modelovaných úřadů (Enterprise) a jejich architektur" created="2019-10-16T13:54:20" modified="2019-10-16T13:54:20">
+<topic uuid="6621B86E-E82C-4C6C-967C-11AAB95D65EE" position="{371, -66}" text="Stanovení rozsahu modelovaných úřadů" created="2019-10-16T13:54:20" modified="2019-10-16T13:54:20">
+</topic>
+<topic uuid="020701EB-CDFB-4623-8AF9-B26CE51F57B4" position="{363, -8}" text="Segmentace architektur dle významu (TOGAF)" created="2019-10-16T13:54:20" modified="2019-10-16T13:54:20">
+</topic>
+<topic uuid="024A6C82-149B-4E7A-8C87-0078B0640228" position="{359, 58}" text="Rozdělení zodpovědností za správu architektury úřadu" created="2019-10-16T13:54:20" modified="2019-10-16T13:54:20">
+</topic>
+</topic>
+</topic>
+<topic uuid="74DBC4D1-C70B-4552-9F32-8C157202E746" position="{314, -1568}" text="Struktura modelovaných architektur" created="2019-10-16T13:54:20" modified="2019-10-16T13:54:20">
+<topic uuid="34159EFC-7D3E-419D-BC1E-EE3EE5AE991F" position="{361, -133}" text="Modely architektury podle účelu a podrobnosti" created="2019-10-16T13:54:20" modified="2019-10-16T13:54:20">
+</topic>
+<topic uuid="7C4E9D20-8730-444F-AF47-CDA6F1701448" position="{304, -83}" text="Domény obsahu architektur" created="2019-10-16T13:54:20" modified="2019-10-16T13:54:20">
+</topic>
+<topic uuid="37EAD29E-E456-4B55-87A3-AE6709DBADD3" position="{363, -33}" text="Architektury podle míry obecnosti a závaznosti" created="2019-10-16T13:54:20" modified="2019-10-16T13:54:20">
+</topic>
+<topic uuid="BDEF6824-1E7B-4AFD-998D-ADD292EB31FA" position="{330, 17}" text="Stavební bloky architektury a řešení" created="2019-10-16T13:54:20" modified="2019-10-16T13:54:20">
+</topic>
+<topic uuid="1BB75AD7-14AD-4176-9BF5-9CF16FCF23CC" position="{353, 75}" text="Stupně detailu prezentovaných informací u pohledů na model" created="2019-10-16T13:54:20" modified="2019-10-16T13:54:20">
+</topic>
+<topic uuid="C26A2C83-C103-4DFF-BA65-E047B943DB0E" position="{329, 133}" text="Kontexty modelu architektury úřadu" created="2019-10-16T13:54:20" modified="2019-10-16T13:54:20">
+</topic>
+</topic>
+<topic uuid="A4B21E0F-87BC-4DAF-BF35-59A24F6ABF47" position="{281, -829}" text="Proces tvorby architektur" created="2019-10-16T13:54:20" modified="2019-10-16T13:54:20">
+<topic uuid="ED8A3194-09E2-483E-8560-B689E98A3320" position="{328, -382}" text="Přizpůsobení cyklu ADM pro NA VS ČR a pro jednotlivá angažmá" created="2019-10-16T13:54:20" modified="2019-10-16T13:54:20">
+<topic uuid="E2A68646-92EC-4E82-96E7-F0BA7668DB27" position="{367, -166}" text="Nastavení rozsahu architektonického angažmá" created="2019-10-16T13:54:20" modified="2019-10-16T13:54:20">
+</topic>
+<topic uuid="F8B702DF-178C-48EE-A2AE-E5C69DE61092" position="{336, -108}" text="Rozhodnutí o šířce rozsahu" created="2019-10-16T13:54:20" modified="2019-10-16T13:54:20">
+</topic>
+<topic uuid="1FAB3046-4077-4FC1-9099-72CD7880DF3C" position="{344, -58}" text="Rozhodnutí o hloubce obsahu" created="2019-10-16T13:54:20" modified="2019-10-16T13:54:20">
+</topic>
+<topic uuid="6323D681-304F-4560-BC31-5C59F04BB816" position="{391, -8}" text="Rozhodnutí o časovém horizontu architektury" created="2019-10-16T13:54:20" modified="2019-10-16T13:54:20">
+</topic>
+<topic uuid="B9994284-7E87-4B0B-8C2C-E7CF604446CA" position="{389, 50}" text="Rozhodnutí o doménách v architektonickém angažmá" created="2019-10-16T13:54:20" modified="2019-10-16T13:54:20">
+</topic>
+<topic uuid="F32ECBA0-D632-4DE8-B5E0-04CBE8B798B4" position="{354, 108}" text="Rozhodnutí o použitých vstupech" created="2019-10-16T13:54:20" modified="2019-10-16T13:54:20">
+</topic>
+<topic uuid="8D4667BF-C469-47AC-83F3-1BB4BDF1E799" position="{359, 166}" text="Rozhodnutí o volbě hledisek podle zainteresovaných" created="2019-10-16T13:54:20" modified="2019-10-16T13:54:20">
+</topic>
+</topic>
+<topic uuid="92A83B95-5A61-4DF4-81C2-8CE3198B28BF" position="{327, -75}" text="Praktické příklady architektonických angažmá" created="2019-10-16T13:54:20" modified="2019-10-16T13:54:20">
+<topic uuid="3C9D66D7-5021-4329-B757-3EA697A2EB26" position="{352, -83}" text="Návrh architektonické vize úřadu" created="2019-10-16T13:54:20" modified="2019-10-16T13:54:20">
+</topic>
+<topic uuid="CBBF9E1D-34DA-40E7-9410-AF252097468A" position="{368, -33}" text="Enterprise architektura projektu (PSA)" created="2019-10-16T13:54:20" modified="2019-10-16T13:54:20">
+</topic>
+<topic uuid="E20F845F-C301-4FC0-B5E5-A0D8B7CAA984" position="{387, 25}" text="Architektura pro žádost o stanovisko OHA k ICT projektu" created="2019-10-16T13:54:20" modified="2019-10-16T13:54:20">
+</topic>
+<topic uuid="D38DF16C-B08E-4784-98AA-B464C7BCA7E8" position="{381, 83}" text="Architektura pro Informační koncepci OVS" created="2019-10-16T13:54:20" modified="2019-10-16T13:54:20">
+</topic>
+</topic>
+<topic uuid="A952CE56-D784-4DC7-9B26-63F79B5AD1F6" position="{321, 307}" text="Přizpůsobený obsah cyklu ADM pro NA VS ČR" created="2019-10-16T13:54:20" modified="2019-10-16T13:54:20">
+<topic uuid="30E5B6F4-411D-4714-8945-4D31480C8322" position="{293, -249}" text="Předběžná fáze" created="2019-10-16T13:54:20" modified="2019-10-16T13:54:20">
+</topic>
+<topic uuid="0CB00D91-3877-4428-B974-CA6498365530" position="{334, -199}" text="Fáze A – Architektonická vize" created="2019-10-16T13:54:21" modified="2019-10-16T13:54:21">
+</topic>
+<topic uuid="75FA138E-4BE5-4F7D-B59C-F7A099C0B62D" position="{366, -141}" text="Fáze B – Byznys architektura výkonu a provozu veřejné správy" created="2019-10-16T13:54:21" modified="2019-10-16T13:54:21">
+</topic>
+<topic uuid="02CEDAB1-7F7B-455E-9D44-F57771879765" position="{382, -83}" text="Fáze C – Architektura IS (aplikační a datová)" created="2019-10-16T13:54:21" modified="2019-10-16T13:54:21">
+</topic>
+<topic uuid="FAA09B59-1358-43A1-AF59-15DC0DDE9C48" position="{363, -25}" text="Fáze D – Technologická architektura výpočetní a komunikační infrastruktury" created="2019-10-16T13:54:21" modified="2019-10-16T13:54:21">
+</topic>
+<topic uuid="44C0A359-9AB4-43E6-BC49-FC8094C7F24B" position="{333, 33}" text="Fáze E – Příležitosti a řešení" created="2019-10-16T13:54:21" modified="2019-10-16T13:54:21">
+</topic>
+<topic uuid="D1AA57B0-51D5-4D3B-BAE5-0B5F90771EF8" position="{331, 83}" text="Fáze F – Plánování migrace" created="2019-10-16T13:54:21" modified="2019-10-16T13:54:21">
+</topic>
+<topic uuid="566B031A-FC3C-40F2-BF67-3AA4B3F3B4CA" position="{373, 141}" text="Fáze G – Dohled na zavedení plánované architektury" created="2019-10-16T13:54:21" modified="2019-10-16T13:54:21">
+</topic>
+<topic uuid="1B71D510-B337-4A58-BB3C-B796480C7F24" position="{369, 199}" text="Fáze H – Řízení architektonických změn" created="2019-10-16T13:54:21" modified="2019-10-16T13:54:21">
+</topic>
+<topic uuid="7F0F09AA-156F-4F83-A14B-E935B1AABA1B" position="{379, 249}" text="Proces správy architektonických požadavků" created="2019-10-16T13:54:21" modified="2019-10-16T13:54:21">
+</topic>
+</topic>
+</topic>
+<topic uuid="5AB11DF3-FF46-4164-ACD6-5E148681C31D" position="{317, 481}" text="Rámec obsahu a výstupů architektur" created="2019-10-16T13:54:21" modified="2019-10-16T13:54:21">
+<topic uuid="5EF55655-6191-4381-BABA-1E14B4E98D18" position="{347, -696}" text="Předměty modelování – architektonický metamodel" created="2019-10-16T13:54:21" modified="2019-10-16T13:54:21">
+</topic>
+<topic uuid="B56026EA-A463-4CE8-9FFC-763652D7788A" position="{319, -638}" text="Celkový metamodel NA VS ČR" created="2019-10-16T13:54:21" modified="2019-10-16T13:54:21">
+</topic>
+<topic uuid="7B6F336F-5561-4AF8-8DF2-B635861F0C54" position="{311, -307}" text="Dílčí doménové metamodely" created="2019-10-16T13:54:21" modified="2019-10-16T13:54:21">
+<topic uuid="9EA9A131-6A7B-4E29-8221-9FA8CAD5DAB5" position="{310, -281}" text="Metamodel byznys architektury (BA)" created="2019-10-16T13:54:21" modified="2019-10-16T13:54:21">
+</topic>
+<topic uuid="613EFA25-C2DB-4B8A-963D-E7A27027DFE6" position="{320, -223}" text="Metamodel architektury IS - informační (datové) architektury (DA)" created="2019-10-16T13:54:21" modified="2019-10-16T13:54:21">
+</topic>
+<topic uuid="D29E9925-84CD-4113-B057-D16D3B7CF165" position="{315, -157}" text="Metamodel architektury IS - aplikační architektury (AA)" created="2019-10-16T13:54:21" modified="2019-10-16T13:54:21">
+</topic>
+<topic uuid="D8202CA1-98D9-4277-A48F-A3A0C768CE74" position="{330, -91}" text="Metamodel ICT technologické architektury (TA)" created="2019-10-16T13:54:21" modified="2019-10-16T13:54:21">
+</topic>
+<topic uuid="764BF8A2-7DCA-44FC-86D2-7CFE34D6CA99" position="{304, -25}" text="Metamodel komunikační a fyzické infrastruktury (KI)" created="2019-10-16T13:54:21" modified="2019-10-16T13:54:21">
+</topic>
+<topic uuid="AA38DA44-F179-4006-B1BD-FAF629E3AEE1" position="{341, 41}" text="Metamodel architektury strategie a směřování (MA)" created="2019-10-16T13:54:21" modified="2019-10-16T13:54:21">
+</topic>
+<topic uuid="79CDD8D9-0A18-4023-A504-1869F8274FEC" position="{325, 99}" text="Metamodel výkonnostní architektury (PA)" created="2019-10-16T13:54:21" modified="2019-10-16T13:54:21">
+</topic>
+<topic uuid="DF088A8A-5889-4F8D-BB7A-9386F4534BEC" position="{330, 149}" text="Metamodel bezpečnostní architektury (SA)" created="2019-10-16T13:54:21" modified="2019-10-16T13:54:21">
+</topic>
+<topic uuid="6B77DC8A-200D-4A88-B02A-36A4E862156D" position="{340, 207}" text="Metamodel architektury standardizace, shody s předpisy a udržitelnosti" created="2019-10-16T13:54:21" modified="2019-10-16T13:54:21">
+</topic>
+<topic uuid="0405E3AF-723F-4466-8C45-319187794A88" position="{324, 273}" text="Metamodel architektury implementace a migrace" created="2019-10-16T13:54:21" modified="2019-10-16T13:54:21">
+</topic>
+</topic>
+<topic uuid="3DC30A46-061C-4BEC-B2F2-F5EE46028787" position="{337, 198}" text="Hlediska a definice pohledů Národní architektury VS ČR" created="2019-10-16T13:54:21" modified="2019-10-16T13:54:21">
+<topic uuid="1917F98F-716D-4C2A-9755-0000B4828FB2" position="{286, -174}" text="Přehledová hlediska" created="2019-10-16T13:54:21" modified="2019-10-16T13:54:21">
+</topic>
+<topic uuid="391301AE-AA78-4597-A8BB-38D9F974DA3C" position="{319, -124}" text="Hlediska motivační architektury" created="2019-10-16T13:54:21" modified="2019-10-16T13:54:21">
+</topic>
+<topic uuid="FFFF56A7-4DDF-42DF-932B-E87801ADC046" position="{352, -66}" text="Hlediska byznys architektury poskytování služeb VS" created="2019-10-16T13:54:21" modified="2019-10-16T13:54:21">
+</topic>
+<topic uuid="8CF5FCA6-4B2D-4B41-A996-30279C7FA073" position="{357, -8}" text="Hlediska architektury informačních systémů" created="2019-10-16T13:54:21" modified="2019-10-16T13:54:21">
+</topic>
+<topic uuid="DB8EE0C8-33EC-4EB5-A20C-B2DA55971F0B" position="{344, 50}" text="Hlediska IT technologie a komunikační infrastruktury" created="2019-10-16T13:54:21" modified="2019-10-16T13:54:21">
+</topic>
+<topic uuid="7311DD14-62EB-4D98-9267-0CC2347481C6" position="{328, 108}" text="Hledisko implementace a migrace" created="2019-10-16T13:54:21" modified="2019-10-16T13:54:21">
+</topic>
+<topic uuid="2D459833-E142-49EC-AE1C-927BAAD238F6" position="{353, 166}" text="Hlediska referenční architektury evropské interoperability EIRA" created="2019-10-16T13:54:21" modified="2019-10-16T13:54:21">
+</topic>
+</topic>
+<topic uuid="42934F7D-D82E-4CB8-8C28-E4FC27635719" position="{339, 563}" text="Referenční modely architektury úřadu" created="2019-10-16T13:54:21" modified="2019-10-16T13:54:21">
+<topic uuid="1D924FF4-C4C2-4CCB-8FD2-731DC8A1723B" position="{346, -141}" text="Referenční modely byznys architektury" created="2019-10-16T13:54:21" modified="2019-10-16T13:54:21">
+</topic>
+<topic uuid="1F189542-5BBF-4FB8-A50B-DDAE9F32734C" position="{365, -91}" text="Referenční model aplikační architektury NAP" created="2019-10-16T13:54:21" modified="2019-10-16T13:54:21">
+</topic>
+<topic uuid="299E6492-591B-4997-8F7D-0408BB17413A" position="{342, -41}" text="Referenční model datové architektury" created="2019-10-16T13:54:21" modified="2019-10-16T13:54:21">
+</topic>
+<topic uuid="E55589E1-C991-41E5-9CA5-3C228FE49657" position="{335, 17}" text="Referenční model IT technologické architektury" created="2019-10-16T13:54:21" modified="2019-10-16T13:54:21">
+</topic>
+<topic uuid="D63A6C3E-7B0C-42A8-A75A-6330D78CDE84" position="{360, 75}" text="Referenční model komunikační architektury" created="2019-10-16T13:54:21" modified="2019-10-16T13:54:21">
+</topic>
+<topic uuid="E9D35864-4552-49B9-A8BB-ACF3090B0808" position="{364, 133}" text="Referenční model architektury strategického směřování" created="2019-10-16T13:54:21" modified="2019-10-16T13:54:21">
+</topic>
+</topic>
+</topic>
+<topic uuid="16810E14-A28D-4D04-9238-8B8C0875C46D" position="{339, 1285}" text="Architektonické dovednosti, útvary a orgány" created="2019-10-16T13:54:21" modified="2019-10-16T13:54:21">
+<topic uuid="C6A41485-D143-4F35-9C1F-7960510B6C9B" position="{375, -25}" text="Ustavení a role architektonických útvarů a orgánů" created="2019-10-16T13:54:21" modified="2019-10-16T13:54:21">
+<topic uuid="1B0459E2-AF37-49FE-A431-3C3F7F58A99A" position="{315, -25}" text="Útvar architektury úřadu" created="2019-10-16T13:54:21" modified="2019-10-16T13:54:21">
+</topic>
+<topic uuid="1C0FDC1E-CEC6-4FE0-A6E1-144467153691" position="{304, 25}" text="Architektonická rada" created="2019-10-16T13:54:21" modified="2019-10-16T13:54:21">
+</topic>
+</topic>
+<topic uuid="4F844EF4-ECAD-4ABE-84C1-02A9F8204B35" position="{357, 50}" text="Rozvoj architektonických dovedností" created="2019-10-16T13:54:21" modified="2019-10-16T13:54:21">
+</topic>
+</topic>
+<topic uuid="65FE3B2B-840F-4360-AAC1-054F6286D9D9" position="{305, 1634}" text="Architektonické úložiště a nástroj" created="2019-10-16T13:54:21" modified="2019-10-16T13:54:21">
+<topic uuid="6508B578-D47B-4E6A-A0C4-8DC4B1140F49" position="{346, -249}" text="Struktura obsahu architektonického úložiště" created="2019-10-16T13:54:21" modified="2019-10-16T13:54:21">
+</topic>
+<topic uuid="73CEE66D-B5B9-4274-A64C-D1DCDB4D244F" position="{336, -199}" text="Klasifikace modelů a pohledů NA VS ČR" created="2019-10-16T13:54:21" modified="2019-10-16T13:54:21">
+</topic>
+<topic uuid="646DF5AB-C8AB-4A0E-89F9-E6E5F3AF6A32" position="{345, -8}" text="Struktura navigace a modelování v nástroji EAM" created="2019-10-16T13:54:21" modified="2019-10-16T13:54:21">
+<topic uuid="30A1D213-8D5D-4FD3-9A11-674C45C31E87" position="{367, -133}" text="Struktura modelů ArchiMate v nástroji a úložišti" created="2019-10-16T13:54:21" modified="2019-10-16T13:54:21">
+</topic>
+<topic uuid="46E2CA14-A150-4D99-97CA-2ED5A1BB3105" position="{360, -75}" text="Celková hierarchie modelů NA VS ČR" created="2019-10-16T13:54:21" modified="2019-10-16T13:54:21">
+</topic>
+<topic uuid="C9E0A4A1-BD60-4C9B-BC78-D54DFC777EDE" position="{363, -17}" text="Modely definice architektonické rámce (metamodel, úhly pohledu)" created="2019-10-16T13:54:21" modified="2019-10-16T13:54:21">
+</topic>
+<topic uuid="4F7B342B-4710-4B78-93D3-9837CEEEF560" position="{328, 41}" text="Modely referenční knihovny" created="2019-10-16T13:54:21" modified="2019-10-16T13:54:21">
+</topic>
+<topic uuid="95591CB0-5904-4683-B1F3-1A8017A8C033" position="{353, 91}" text="Modely knihovny standardů a vzorů" created="2019-10-16T13:54:21" modified="2019-10-16T13:54:21">
+</topic>
+<topic uuid="0940F439-D148-4E2B-9EBA-EE26539EB930" position="{364, 141}" text="Modely individuálních architektur úřadů" created="2019-10-16T13:54:21" modified="2019-10-16T13:54:21">
+</topic>
+</topic>
+<topic uuid="9C798A29-2C4E-4D70-B2AB-4E178F649A4B" position="{355, 191}" text="Principy synchronizace centrálních a lokálních architektonických nástrojů" created="2019-10-16T13:54:21" modified="2019-10-16T13:54:21">
+</topic>
+<topic uuid="28F8C79C-9764-4F22-AC13-06D515864ED5" position="{335, 249}" text="Potřeby a požadavky používání nástroje" created="2019-10-16T13:54:21" modified="2019-10-16T13:54:21">
+</topic>
+</topic>
+</topic>
+<topic uuid="D16B335C-EFEB-427D-9A71-26E860063467" position="{330, 6760}" text="Národní architektonický plán" created="2019-10-16T13:54:21" modified="2019-10-16T13:54:21">
+<topic uuid="F311444C-40FB-4290-B12D-975107EE741F" position="{335, -2115}" text="Domény Národní architektury veřejné správy" created="2019-10-16T13:54:21" modified="2019-10-16T13:54:21">
+</topic>
+<topic uuid="EDFA9B6E-B9E1-4EFF-9FC9-DE483C765322" position="{333, -2032}" text="Koncepce referenčních modelů architektury úřadů VS" created="2019-10-16T13:54:21" modified="2019-10-16T13:54:21">
+<topic uuid="D6CD8D35-BDCB-4BF7-9BE6-5248079DF82C" position="{385, -33}" text="Architektonické vzory klíčových oblastí úřadu" created="2019-10-16T13:54:21" modified="2019-10-16T13:54:21">
+</topic>
+<topic uuid="664C0E15-A637-40D3-A110-27522994B7DA" position="{389, 25}" text="Architektonické vzory využití sdílených služeb eGovernmentu" created="2019-10-16T13:54:21" modified="2019-10-16T13:54:21">
+</topic>
+</topic>
+<topic uuid="29578F49-E3E7-4383-B13F-A53AD3A1E4FC" position="{320, -1842}" text="Základy a podstaty změn pro jednotlivé architektonické vrstvy" created="2019-10-16T13:54:21" modified="2019-10-16T13:54:21">
+<topic uuid="EBA4D742-27E6-4C22-BCE7-AFE9CA9A9565" position="{368, -99}" text="Byznys architektura - vrstva výkonu veřejné správy" created="2019-10-16T13:54:21" modified="2019-10-16T13:54:21">
+</topic>
+<topic uuid="9185A78D-E2EA-46AC-A54D-143865EC8CCC" position="{367, -33}" text="Aplikační architektura - vrstva informačních systémů veřejné správy" created="2019-10-16T13:54:21" modified="2019-10-16T13:54:21">
+</topic>
+<topic uuid="AB6A397D-1117-44BA-AD82-1AC4F113A04F" position="{364, 33}" text="Technologická / Platformová architektura - vrstva HW a SW technologií" created="2019-10-16T13:54:21" modified="2019-10-16T13:54:21">
+</topic>
+<topic uuid="064D692E-C25E-49D0-855E-479BD4A4DA69" position="{361, 99}" text="Komunikační architektura - vrstva komunikační infrastruktury veřejné správy" created="2019-10-16T13:54:21" modified="2019-10-16T13:54:21">
+</topic>
+</topic>
+<topic uuid="4DEFCC06-9C8B-4A9B-AD0F-4C91F45542C2" position="{341, -832}" text="Architektura úřadu v kontextu veřejné správy a jejích vrstvách architektury" created="2019-10-16T13:54:21" modified="2019-10-16T13:54:21">
+<topic uuid="93732A6B-876F-4673-A2BD-5473CD9BD97B" position="{388, -845}" text="Pravidla architektury strategie a směřování úřadu" created="2019-10-16T13:54:21" modified="2019-10-16T13:54:21">
+</topic>
+<topic uuid="4FEA4957-CAC1-4BB9-A7E1-2D0715F5A5B7" position="{376, -787}" text="Pravidla výkonnostní architektury úřadu" created="2019-10-16T13:54:21" modified="2019-10-16T13:54:21">
+</topic>
+<topic uuid="94B23649-C298-427E-9565-D364E53CEC5F" position="{398, -646}" text="Pravidla byznys architektury výkonu veřejných služeb úřadu" created="2019-10-16T13:54:21" modified="2019-10-16T13:54:21">
+<topic uuid="21FFB01A-237A-4104-9F16-CE9BB8993BBE" position="{386, -91}" text="Rozdělení procesů a funkcí veřejné správy" created="2019-10-16T13:54:21" modified="2019-10-16T13:54:21">
+</topic>
+<topic uuid="92616A23-F71F-46F4-A1E4-D700BA4BD5F7" position="{345, -41}" text="Ohlášení agend úřadu v RPP" created="2019-10-16T13:54:21" modified="2019-10-16T13:54:21">
+</topic>
+<topic uuid="347B4BF6-176D-442F-A4BD-AE5EDFE5474D" position="{378, 17}" text="Rozdělení obslužných a komunikačních kanálů veřejné správy" created="2019-10-16T13:54:21" modified="2019-10-16T13:54:21">
+</topic>
+<topic uuid="5B62CD9F-D087-44DF-8763-485E67BA44F7" position="{388, 83}" text="Vliv byznys architektury úřadu na možnosti řešení její IT podpory" created="2019-10-16T13:54:21" modified="2019-10-16T13:54:21">
+</topic>
+</topic>
+<topic uuid="A63A656B-9AF0-45D5-868C-3F7A33698C83" position="{386, -207}" text="Pravidla aplikační architektury IS VS úřadu" created="2019-10-16T13:54:21" modified="2019-10-16T13:54:21">
+<topic uuid="BD94EFC8-FB68-4A18-A365-3B8BB46C25B8" position="{381, -290}" text="Principy klasifikace aplikací dle referenčního modelu" created="2019-10-16T13:54:21" modified="2019-10-16T13:54:21">
+</topic>
+<topic uuid="78DBAE3B-DE81-4303-B5C1-32739E9ECBFF" position="{380, -224}" text="Pravidla pro uživatelská rozhraní a přístup k informačním systémům" created="2019-10-16T13:54:21" modified="2019-10-16T13:54:21">
+</topic>
+<topic uuid="DE2D1E09-E639-486E-B0AC-68CADCEE1FDB" position="{385, -166}" text="Pravidla pro obslužné agendové aplikace (FO)" created="2019-10-16T13:54:21" modified="2019-10-16T13:54:21">
+</topic>
+<topic uuid="23BE79DF-99A2-40B8-A858-F7A32A02670D" position="{378, -108}" text="Pravidla pro odborné (specifické) agendové aplikace (MO)" created="2019-10-16T13:54:21" modified="2019-10-16T13:54:21">
+</topic>
+<topic uuid="37332B30-7CDF-4139-9FDF-5A29AF57B4D7" position="{373, -42}" text="Pravidla pro aplikace agendového zázemí (BO)" created="2019-10-16T13:54:21" modified="2019-10-16T13:54:21">
+</topic>
+<topic uuid="83900406-68A2-401B-8F92-E4589B025C60" position="{380, 24}" text="Pravidla pro aplikace spisové služby, správy případů a workflow" created="2019-10-16T13:54:21" modified="2019-10-16T13:54:21">
+</topic>
+<topic uuid="D2F06A68-075F-4A7B-889A-280E1748156F" position="{373, 82}" text="Pravidla pro kategorii znalostních systémů" created="2019-10-16T13:54:21" modified="2019-10-16T13:54:21">
+</topic>
+<topic uuid="991F79B5-5BF5-47EE-A7C6-057A8EE4FB1B" position="{365, 132}" text="Pravidla pro identity management (IDM)" created="2019-10-16T13:54:21" modified="2019-10-16T13:54:21">
+</topic>
+<topic uuid="1185A797-4415-4C2F-99B5-1B03665D745D" position="{342, 182}" text="Pravidla pro integrační platformy" created="2019-10-16T13:54:21" modified="2019-10-16T13:54:21">
+</topic>
+<topic uuid="1A20D286-0AA6-4370-9546-6B5224BD410F" position="{386, 240}" text="Pravidla pro systémy zveřejňující a využívající otevřená data" created="2019-10-16T13:54:21" modified="2019-10-16T13:54:21">
+</topic>
+<topic uuid="0E5A8B2F-F07F-48EC-AD0F-20F23B7A01B6" position="{358, 298}" text="Pravidla pro využití SaaS služeb eGC" created="2019-10-16T13:54:21" modified="2019-10-16T13:54:21">
+</topic>
+</topic>
+<topic uuid="F89239C5-2F8E-4BC4-9E73-D15BCBF1BE55" position="{360, 307}" text="Pravidla datové architektury IS VS" created="2019-10-16T13:54:21" modified="2019-10-16T13:54:21">
+<topic uuid="F09273DC-A64F-43FF-8235-CBD0039EE15F" position="{353, -166}" text="Rozdělení / klasifikace dat ve veřejné správě" created="2019-10-16T13:54:21" modified="2019-10-16T13:54:21">
+</topic>
+<topic uuid="56BA72A1-30AA-43FA-918D-48D6B3F5A1B1" position="{304, -116}" text="Pravidla pro číselníková data" created="2019-10-16T13:54:21" modified="2019-10-16T13:54:21">
+</topic>
+<topic uuid="34D9A452-F809-42F4-8186-A303F850F340" position="{356, -58}" text="Pravidla pro referenční a agendová kmenová data" created="2019-10-16T13:54:21" modified="2019-10-16T13:54:21">
+</topic>
+<topic uuid="819AFCA4-EE39-48BF-B4E4-F2ADCD89B723" position="{314, 0}" text="Pravidla pro otevřená data (OD)" created="2019-10-16T13:54:21" modified="2019-10-16T13:54:21">
+</topic>
+<topic uuid="DF126938-D0D0-4197-BC05-89AC7610A1A9" position="{350, 50}" text="Pravidla pro data veřejného datového fondu" created="2019-10-16T13:54:21" modified="2019-10-16T13:54:21">
+</topic>
+<topic uuid="67BBC56C-6D15-4175-8C20-BF7EAC16EB5A" position="{300, 100}" text="Pravidla pro analytická data" created="2019-10-16T13:54:21" modified="2019-10-16T13:54:21">
+</topic>
+<topic uuid="5BE610D3-4C79-4EB2-A231-89940A2A6FED" position="{344, 158}" text="Hierarchie povinnosti využívání údajů dle jejich závaznosti" created="2019-10-16T13:54:21" modified="2019-10-16T13:54:21">
+</topic>
+</topic>
+<topic uuid="B05F9267-2C53-4606-A776-84AD864292C4" position="{382, 581}" text="Pravidla technologické architektury IS VS" created="2019-10-16T13:54:21" modified="2019-10-16T13:54:21">
+<topic uuid="358992CD-C30B-43A6-B1A4-91428FBC06D7" position="{361, -58}" text="Klasifikace IT technologické architektury" created="2019-10-16T13:54:21" modified="2019-10-16T13:54:21">
+</topic>
+<topic uuid="02E2DAC2-DC4A-4B86-BF30-B8F4CA09ADBF" position="{354, 0}" text="Pravidla návrhu a využití On-Premise architektury" created="2019-10-16T13:54:21" modified="2019-10-16T13:54:21">
+</topic>
+<topic uuid="DE17846E-5DB9-4CCB-BDFA-2BA56FA30F46" position="{363, 58}" text="Pravidla využití PaaS a IaaS služeb eGC" created="2019-10-16T13:54:21" modified="2019-10-16T13:54:21">
+</topic>
+</topic>
+<topic uuid="85FF9EC0-6A37-44DE-97A6-297DC08D7FF2" position="{394, 697}" text="Pravidla fyzické a komunikační infrastruktury IS VS" created="2019-10-16T13:54:21" modified="2019-10-16T13:54:21">
+</topic>
+<topic uuid="F7D231AB-C432-4C61-A525-34B39E1BBD78" position="{382, 804}" text="Specifická pravidla pro architekturu úřadů" created="2019-10-16T13:54:21" modified="2019-10-16T13:54:21">
+<topic uuid="4E320A4A-708E-49B4-9DF0-9F8713605989" position="{359, -41}" text="Pravidla pro architekturu dle velikosti a možností úřadů" created="2019-10-16T13:54:21" modified="2019-10-16T13:54:21">
+</topic>
+<topic uuid="3A8A38FB-BCE6-4549-9BAC-8EBC6B88CB57" position="{378, 33}" text="Pravidla pro architekturu dle pozice úřadu ve struktuře VS ČR a vztahu ke sdíleným službám" created="2019-10-16T13:54:21" modified="2019-10-16T13:54:21">
+</topic>
+</topic>
+</topic>
+<topic uuid="FD0AC78C-67F9-4E44-B786-ECE58730FD07" position="{328, 977}" text="Popis sdílených služeb, funkčních celků a tematických oblastí veřejné správy ČR" created="2019-10-16T13:54:22" modified="2019-10-16T13:54:22">
+<topic uuid="AD8C2B69-2174-4894-AE62-703E27551094" position="{339, -906}" text="Agendový model veřejné správy" created="2019-10-16T13:54:22" modified="2019-10-16T13:54:22">
+</topic>
+<topic uuid="1E330895-B609-4424-98B5-EAF1F9E83FF9" position="{309, -806}" text="Propojený datový fond" created="2019-10-16T13:54:22" modified="2019-10-16T13:54:22">
+<topic uuid="FBC459D8-F66F-4F93-B455-6E976C7838BF" position="{240, -50}" text="Referenční rozhraní" created="2019-10-16T13:54:22" modified="2019-10-16T13:54:22">
+</topic>
+<topic uuid="768CA599-6A77-4625-B534-16C12376A6CF" position="{235, 0}" text="Evidence subjektů" created="2019-10-16T13:54:22" modified="2019-10-16T13:54:22">
+</topic>
+<topic uuid="D3FE458D-B553-485E-AF88-94F55A577BFD" position="{281, 50}" text="Pohled na propojený datový fond" created="2019-10-16T13:54:22" modified="2019-10-16T13:54:22">
+</topic>
+</topic>
+<topic uuid="739A0E25-9C2B-4F06-A697-A64707A7E700" position="{301, -681}" text="Veřejný datový fond" created="2019-10-16T13:54:22" modified="2019-10-16T13:54:22">
+<topic uuid="CCDEFBAE-5DF4-438E-A63A-7DF7D5523C17" position="{236, -25}" text="Datové zdroje VS ČR" created="2019-10-16T13:54:22" modified="2019-10-16T13:54:22">
+</topic>
+<topic uuid="C07CA974-F872-483F-A85A-82BD95CC6552" position="{233, 25}" text="Přístupy k datům VS" created="2019-10-16T13:54:22" modified="2019-10-16T13:54:22">
+</topic>
+</topic>
+<topic uuid="1B2491CD-C8E1-4639-828E-EF4EC50B18C4" position="{320, -606}" text="Úplné elektronické podání" created="2019-10-16T13:54:22" modified="2019-10-16T13:54:22">
+</topic>
+<topic uuid="C929315B-6B16-4B5C-A61A-2714A870C9A6" position="{339, -548}" text="Integrace informačních systémů" created="2019-10-16T13:54:22" modified="2019-10-16T13:54:22">
+<topic uuid="983AE95C-EE0F-4B10-9FD6-DD063E553F24" position="{352, 0}" text="Integrace na systémy jiného správce s pomocí eGSB" created="2019-10-16T13:54:22" modified="2019-10-16T13:54:22">
+</topic>
+</topic>
+<topic uuid="4468B433-529A-410B-8ADB-EE31803536CE" position="{376, -407}" text="Portály veřejné správy a soukromoprávních uživatelů údajů" created="2019-10-16T13:54:22" modified="2019-10-16T13:54:22">
+<topic uuid="FDAA115D-358F-4922-90AA-1806672D7BBF" position="{380, -75}" text="PO a PVS - Portál občana a Portál veřejné správy" created="2019-10-16T13:54:22" modified="2019-10-16T13:54:22">
+</topic>
+<topic uuid="58C3AA29-A7C4-40FD-955F-C931B434A9B8" position="{296, -17}" text="Agendový portál" created="2019-10-16T13:54:22" modified="2019-10-16T13:54:22">
+</topic>
+<topic uuid="2B79981F-D4A4-4DF6-9DD7-5981A7D91679" position="{285, 33}" text="Portál území" created="2019-10-16T13:54:22" modified="2019-10-16T13:54:22">
+</topic>
+<topic uuid="9FA91881-B890-40F2-9A18-88A10800FFBE" position="{372, 83}" text="Portál soukromoprávního uživatele údajů" created="2019-10-16T13:54:22" modified="2019-10-16T13:54:22">
+</topic>
+</topic>
+<topic uuid="D2BD577E-5D82-4E4A-9A07-89F5589EA4A9" position="{306, -274}" text="Přístupnost informací" created="2019-10-16T13:54:22" modified="2019-10-16T13:54:22">
+<topic uuid="24C6FC57-4421-4CF1-843A-A7F717A3FFE2" position="{243, 0}" text="Obecně o přístupnosti" created="2019-10-16T13:54:22" modified="2019-10-16T13:54:22">
+</topic>
+</topic>
+<topic uuid="15DE9732-620E-4331-8CBF-15839E4D9A3F" position="{308, -224}" text="Elektronická fakturace" created="2019-10-16T13:54:22" modified="2019-10-16T13:54:22">
+</topic>
+<topic uuid="E27B5C18-350E-415F-AD9E-9859C994A28F" position="{355, -174}" text="Portál občana a portál veřejné správy" created="2019-10-16T13:54:22" modified="2019-10-16T13:54:22">
+</topic>
+<topic uuid="32A78F11-084A-46F3-ABAE-67807D3AA53B" position="{375, -116}" text="Elektronická identifikace pro klienty veřejné správy" created="2019-10-16T13:54:22" modified="2019-10-16T13:54:22">
+<topic uuid="8D12D31E-0FB9-45BF-A481-4309A9A30507" position="{358, 0}" text="Mandáty, práva a role v elektronické identifikaci pro klienty veřejné správy" created="2019-10-16T13:54:22" modified="2019-10-16T13:54:22">
+</topic>
+</topic>
+<topic uuid="2C1FEE6C-8C9D-44F9-B447-62F01C09D36B" position="{371, -33}" text="Univerzální kontaktní místo veřejné správy" created="2019-10-16T13:54:22" modified="2019-10-16T13:54:22">
+<topic uuid="76CEAAEC-2CDB-41B1-B4BD-15B02174F466" position="{372, -25}" text="Samoobslužná univerzální kontaktní místa" created="2019-10-16T13:54:22" modified="2019-10-16T13:54:22">
+</topic>
+<topic uuid="AD46E29C-9525-4905-97CE-9DA1171A5E57" position="{360, 25}" text="Asistovaná univerzální kontaktní místa" created="2019-10-16T13:54:22" modified="2019-10-16T13:54:22">
+</topic>
+</topic>
+<topic uuid="004050E2-D69B-49D2-86D4-D2F6891BED9A" position="{325, 92}" text="Systémy správy dokumentů" created="2019-10-16T13:54:22" modified="2019-10-16T13:54:22">
+<topic uuid="76EE4034-D8BF-4937-9219-9CA9DEC02B89" position="{273, -50}" text="Obecně o spisové službě" created="2019-10-16T13:54:22" modified="2019-10-16T13:54:22">
+</topic>
+<topic uuid="3F82A70E-2DC7-4A2A-B78E-021FFBDBCF65" position="{252, 0}" text="Digitální kontinuita" created="2019-10-16T13:54:22" modified="2019-10-16T13:54:22">
+</topic>
+<topic uuid="D9F680CA-6A33-4DB2-A445-5ED06CF4AA68" position="{249, 50}" text="Řídící dokumenty" created="2019-10-16T13:54:22" modified="2019-10-16T13:54:22">
+</topic>
+</topic>
+<topic uuid="3A60AE21-16C2-4AC8-8184-5EAA95A433BA" position="{383, 200}" text="Systémy a služby spojené s právním řádem a legislativou" created="2019-10-16T13:54:22" modified="2019-10-16T13:54:22">
+<topic uuid="E12C3E82-5820-4885-B817-78FB310A12E1" position="{392, 0}" text="Základní komponenty právních systémů státu" created="2019-10-16T13:54:22" modified="2019-10-16T13:54:22">
+</topic>
+</topic>
+<topic uuid="56179AFB-8F2B-48FC-840B-ADB698EF12DE" position="{341, 316}" text="Elektronické úkony a doručování" created="2019-10-16T13:54:22" modified="2019-10-16T13:54:22">
+<topic uuid="1E28B58B-2913-47C5-9792-8E76185B6476" position="{277, -58}" text="Typy datové schránky" created="2019-10-16T13:54:22" modified="2019-10-16T13:54:22">
+</topic>
+<topic uuid="609DBBFB-1251-4A60-8490-D046834CA99B" position="{323, 0}" text="Zápis rozhodnutí do Registru práv a povinností" created="2019-10-16T13:54:22" modified="2019-10-16T13:54:22">
+</topic>
+<topic uuid="385E8C98-34BA-44D9-BDDC-546F806993FA" position="{326, 58}" text="Využití údajů základních registrů (ZR)" created="2019-10-16T13:54:22" modified="2019-10-16T13:54:22">
+</topic>
+</topic>
+<topic uuid="024ACA3B-18C9-42B5-8507-3DACECB95B6A" position="{366, 424}" text="Jednotný identitní prostor veřejné správy" created="2019-10-16T13:54:22" modified="2019-10-16T13:54:22">
+</topic>
+<topic uuid="F51D5489-72B6-4504-BEC5-41A49DAEDE2A" position="{365, 499}" text="Jednotné obslužné kanály a uživatelská rozhraní úředníků" created="2019-10-16T13:54:22" modified="2019-10-16T13:54:22">
+<topic uuid="D744CF84-570A-4388-81F5-7F2D9925C6F1" position="{281, -25}" text="Portál úředníka" created="2019-10-16T13:54:22" modified="2019-10-16T13:54:22">
+</topic>
+<topic uuid="8ADAD05C-AA91-4BE0-8137-DF0FC18626F7" position="{300, 25}" text="CzechPOINT@Office" created="2019-10-16T13:54:22" modified="2019-10-16T13:54:22">
+</topic>
+</topic>
+<topic uuid="C82DE9E0-65AE-4329-90C0-56CB6A36A5B6" position="{381, 574}" text="Sdílené agendové IS v přenesené působnosti" created="2019-10-16T13:54:22" modified="2019-10-16T13:54:22">
+</topic>
+<topic uuid="0C153702-F449-44FD-9052-2F740E0EC8F8" position="{361, 632}" text="Sdílené agendové IS pro samostatnou působnost územních samospráv" created="2019-10-16T13:54:22" modified="2019-10-16T13:54:22">
+</topic>
+<topic uuid="12F7C257-76FA-4026-B76A-D352F8F4F6AE" position="{354, 690}" text="Sdílené provozní informační systémy" created="2019-10-16T13:54:22" modified="2019-10-16T13:54:22">
+</topic>
+<topic uuid="FD6F8B61-10BB-4BE1-8A51-16D7BE34B4EC" position="{375, 748}" text="Sdílené statistické, analytické a výkaznické systémy" created="2019-10-16T13:54:22" modified="2019-10-16T13:54:22">
+</topic>
+<topic uuid="42300C85-B6FC-4823-B5E8-59B5BEAF511E" position="{302, 806}" text="eGovernment Cloud" created="2019-10-16T13:54:22" modified="2019-10-16T13:54:22">
+</topic>
+<topic uuid="3FA57FF5-0D3D-44E1-8ACB-BD9C6C816AEF" position="{309, 856}" text="Národní datová centra" created="2019-10-16T13:54:22" modified="2019-10-16T13:54:22">
+</topic>
+<topic uuid="47286FB2-63A7-4239-91A4-BBAE195313E7" position="{370, 906}" text="Komunikační infrastruktura veřejné správy" created="2019-10-16T13:54:22" modified="2019-10-16T13:54:22">
+</topic>
+</topic>
+<topic uuid="C3EE9D6D-A466-40FA-BB6A-DBB0E2386EA0" position="{329, 2024}" text="Modely Národního architektonického plánu" created="2019-10-16T13:54:22" modified="2019-10-16T13:54:22">
+<topic uuid="EDD3CCED-DE75-421C-9D1F-88C7AA600578" position="{320, -91}" text="Centrální úložiště modelů" created="2019-10-16T13:54:22" modified="2019-10-16T13:54:22">
+</topic>
+<topic uuid="A1A332BB-B57C-4612-B9F6-04399A8B4B4F" position="{359, -33}" text="Pravidla pro lokální úložiště modelů a modelovací nástroje" created="2019-10-16T13:54:22" modified="2019-10-16T13:54:22">
+</topic>
+<topic uuid="9F463059-6CC1-4E89-B643-97EAFFD02902" position="{324, 25}" text="Vzájemná výměna modelů" created="2019-10-16T13:54:22" modified="2019-10-16T13:54:22">
+</topic>
+<topic uuid="F7FBE658-D2D5-4777-A09F-FD6CF4AF6C33" position="{357, 83}" text="Výpis podstatných prvků architektury eGovernmentu" created="2019-10-16T13:54:22" modified="2019-10-16T13:54:22">
+</topic>
+</topic>
+</topic>
+</topic>
+</topics><relationships>
+</relationships>
+</iThoughts>

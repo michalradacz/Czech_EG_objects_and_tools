@@ -1,2 +1,4 @@
-# Reprezentace-a-n-stroje-pro-modelov-n-esk-ho-EG
-(only in czech language) Strukturovaná reprezentace objektů Informační koncepce a postupné i celého českého egovernmentu využitelná v nástrojích pro architekty a analytiky
+# Reprezentace a nástroje pro modelování objektů českého eGovernmentu
+This repository is only in czech language and its contents is usefull only for Czechia.
+## Popis
+## Historie revizí

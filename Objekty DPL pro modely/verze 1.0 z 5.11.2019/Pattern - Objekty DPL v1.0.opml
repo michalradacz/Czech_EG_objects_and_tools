@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+<title>Pattern - Objekty DPL v1.0</title>
+</head>
+<body>
+<outline text="Objekty DPL" _note="V této části jsou uvedené klíčové objekty schopnosti Digitálně přívětivá legislativa a to včetně zásad DPL a návodných kontrolních otázek pro realizaci digitálních projektů nejen na legislativní vrstvě."><outline text="DPL je po odborné stránce určeno zejména pro ty, kdo" _note="Pro koho jsou mechanismy DPL primárně určené, respektive kdo s nimi má v první řadě pracovat?"><outline text="navrhují, připravují, projednávají, hodnotí či schvalují právní předpisy, které se týkají oblasti digitální agendy, popř. jinak zasahují do jejich tvorby;"></outline>
+<outline text="navrhují a připravují prováděcí předpisy s dopadem na oblast ICT a digitální agendy;"></outline>
+<outline text="hodnotí dopady nové legislativy na oblast digitální agendy a rozvoje eGovernmentu;"></outline>
+<outline text="jsou zodpovědní za strategická rozhodnutí, z nichž vyplývá změna legislativy v oblasti digitální agendy;"></outline>
+<outline text="navrhují a provádějí vrstvu architektury, která má dopad na soukromý sektor a na vrstvu služeb veřejné správy, a navrhují obecná legislativní řešení, jež jsou v souladu s touto architekturou"></outline>
+</outline>
+<outline text="Principy pro legislativu z pohledu digitální agendy" _note="Zde jsou uvedeny principy, které se tak či tak mají při tvorbě legislativy a pro její účely využívat a jsou v souvislosti s digitalizací a digitální agendou. Jsou rozděleny na dvě podoblasti, na veřejnou správu a na obecnou digitalizaci."><outline text="v oblasti digitální agendy"><outline text="Zpřístupnit internetové připojení co nejširšímu okruhu subjektů"></outline>
+<outline text="Garantovat poskytování obdobných služeb pro klienty veřejné správy na celém území čr"></outline>
+<outline text="Zachovávat principy rovnosti a přístupnosti služeb i pro osoby se specifickými potřebami, zejména pro osoby se zdravotním postižením a zohledňovat jejich potřeby a požadavky na technickou přístupnost"></outline>
+<outline text="Elektronicky zpřístupnit konsolidovanou podobu právních předpisů, a tím zlepšit přístup k informacím o právním řádu a právech a povinnostech"></outline>
+<outline text="Respektovat technologickou neutralitu a možnost volby optimální kombinace vhodných technologických řešení"></outline>
+<outline text="Podporovat inovace a investice soukromého sektoru do oblasti ict a zajistit ochranu stávajících soukromých investic"></outline>
+<outline text="Zachovávat volný trh, rovnou hospodářskou soutěž a bránit vytváření podmínek pro nedovolenou veřejnou podporu"></outline>
+<outline text="Zvyšovat kybernetickou bezpečnost při respektování zákonných omezení co se týče možností zásahu do ochrany osobních práv a svobod"></outline>
+<outline text="Zachovávat právo na soukromí tam, kde toto právo nebrání výkonu veřejné moci, nebo neomezuje práva a povinnosti dalších subjektů"></outline>
+<outline text="Zpřístupnit informace veřejné správy formou otevřených dat pro další rozvoj služeb, produktů a inovací"></outline>
+<outline text="Posilovat digitální a informační gramotnost"></outline>
+</outline>
+<outline text="V oblasti elektronizace veřejné správy"><outline text="Využívat v maximální míře již existující principy a systémy egovernmentu, jako jsou základní registry, datové schránky či egovernment service bus"></outline>
+<outline text="Dodržovat vícekanálový princip" _note="předpisy musí respektovat právo klienta vybrat si, zda komunikuje se státem osobně, listinnou formou, či digitálně nebo kombinací těchto kanálů, mimo případy, kdy z povahy věci vyplývá např. osobní součinnost (předvolání)"></outline>
+<outline text="Zkracovat lhůty v rámci řízení pro orgány veřejné správy tam, kde to je s ohledem na předmět možné a účelné"></outline>
+<outline text="Pro vnitřní chod a komunikaci veřejné správy preferovat vždy elektronickou komunikaci a digitální výkon činností"></outline>
+<outline text="Rozvoj elektronizace veřejné správy vždy podmínit snahou zefektivnit a optimalizovat rozsah výkonu veřejné správy a využitím ict snižovat trvale administrativní zátěž podnikatelů, klientů i veřejné správy samotné"></outline>
+<outline text="Atraktivitou elektronických služeb dosáhnout růstu využívání elektronické komunikace na úkor tradičních listinných a prezenčních způsobů"></outline>
+<outline text="Posilovat propojování garantovaných údajů pro výkon agend veřejné správy"></outline>
+<outline text="Elektronicky a jednoduchou formou zpřístupnit informace o řešení komplexních životních situací a zlepšit informovanost pro klienty"></outline>
+<outline text="Měnit elektronické služby veřejné správy od elementárních služeb vyřizujících dílčí agendu ke komplexním tzv. multiagendovým službám, umožňujícím samoobslužnou i asistovanou formou vyřešit životní situaci klienta"></outline>
+<outline text="Efektivně propojovat datový fond veřejné správy a umožnit výměnu garantovaných údajů mezi informačními systémy veřejné správy tak, aby tyto údaje nemusely být neustále předkládány"></outline>
+<outline text="Budovat efektivní a skutečně využitelné elektronické služby založené na důvěryhodné elektronické identitě a elektronické identifikaci osob a komunikaci elektronickými cestami"></outline>
+<outline text="Navrhovat legislativu s využitím modelů národní architektury včetně budoucí architektury úřadů v dotčené oblasti, jejích procesů a it podpory, a tak zajistit lepší nastavení právních pravidel, jejich efektivnější podporu it řešeními a v důsledku toho rychlejší a levnější realizaci transformačních změn"></outline>
+<outline text="Posunout vnímání a myšlení veřejné správy v tom, že služba veřejné správy je službou úřadu (úředníka) klientovi pro usnadnění splnění jeho povinnosti (závazku) nebo dosažení jeho nároku (práva) vůči veřejné správě"></outline>
+<outline text="Při navrhování služeb veřejné správy a legislativy maximálně zohlednit potřeby klienta"></outline>
+</outline>
+</outline>
+<outline text="Zásady digitálně přívětivé legislativy" _note="Deset zásad pro DPL jak byly projednány vládou v roce 2017. Podrobné vysvětlení, dopady a příklady lze nalézt v dokumentu se zásadami na webovém portálu www.digilegislativa.cz "><outline text="Zásada 1: Budování přednostně digitálních služeb (princip digital by default)"></outline>
+<outline text="Zásada 2: Maximální opakovatelnost a znovupoužitelnost údajů a služeb (princip only once)"></outline>
+<outline text="Zásada 3: Budování služeb přístupných a použitelných pro všechny, včetně osob se zdravotním postižením (princip governance accessibility)"></outline>
+<outline text="Zásada 4: Sdílené služby veřejné správy"></outline>
+<outline text="Zásada 5: Konsolidace a propojování informačních systémů veřejné správy"></outline>
+<outline text="Zásada 6: Mezinárodní interoperabilita - budování služeb propojitelných a využitelných v evropském prostoru"></outline>
+<outline text="Zásada 7: Ochrana osobních údajů v míře umožňující kvalitní služby (princip GDPR)"></outline>
+<outline text="Zásada 8: Otevřenost a transparentnost včetně otevřených dat a služeb (princip open government)"></outline>
+<outline text="Zásada 9: Technologická neutralita"></outline>
+<outline text="Zásada 10: Uživatelská přívětivost"></outline>
+</outline>
+<outline text="Ověřovací otázky k prověření souladu s DPL" _note="Základní ověřovací otázky k prověření souladu záměru s digitálními potřebami a DPL, jak je projednala vláda v roce 2017. Podrobnosti lze získat v dokumentu s otázkami na portálu www.digilegislativa.cz "><outline text="Otázka 1: Jsou navrhovaná ustanovení právního předpisu, upravující digitální realizaci dotčené agendy, začleněna do stávající právní úpravy (jde o změnu stávajících předpisů)?"></outline>
+<outline text="Otázka 2: Stanovuje předpis pro komunikaci veřejné správy s klienty již právním řádem definované nástroje digitální komunikace (např. ISDS)?"></outline>
+<outline text="Otázka 3: Obsahuje právní předpis konkrétní úsporná opatření (finanční i nefinanční, např. čas), vedoucí k zvýšení efektivity veřejné správy a snížení veřejných výdajů (např. optimalizace části, či celé agendy vykonávané dosud nedigitalizovanou formou)?"></outline>
+<outline text="Otázka 4: Lze předpis aplikovat za použití stávajících informačních systémů veřejné správy (ISVS)?"></outline>
+<outline text="Otázka 5: Předpokládá předpis efektivní využití již poskytnutých údajů (ve státním datovém fondu - data obsažená v základních registrech a na ně napojených AIS), tj. nestanoví povinnost subjektu údajů opakovaně poskytovat údaje orgánům veřejné správy?"></outline>
+<outline text="Otázka 6: Je předpis, pokud má relevanci k základním registrům, v souladu se zákonem č. 111/2009 Sb., o základních registrech?"></outline>
+<outline text="Otázka 7: Je předpis technologicky neutrální, tedy nepreferuje konkrétní technologie, platformy, software, či zařízení?"></outline>
+<outline text="Otázka 8: Nedochází ke kontrole či filtraci datového provozu nebo narušení síťové neutrality?"></outline>
+<outline text="Otázka 9: Má subjekt údajů možnost digitální on-line kontroly užití všech, v souvislosti s jeho případem vedených, údajů s využitím dálkového přístupu se zaručenou elektronickou identitou? Má subjekt možnost revize v případě chybného užití jeho údajů?"></outline>
+<outline text="Otázka 10: Zajišťuje předpis digitální přístupnost všem oprávněným občanům, podnikatelům i orgánům veřejné moci bez omezení, včetně osob s postižením a funkčními omezeními?"></outline>
+<outline text="Otázka 11: Lze se k digitální službě/informaci dostat prostřednictvím dostupného ICT zařízení, např. ve veřejných knihovnách, úřadech?"></outline>
+<outline text="Otázka 12: Odpovídají stanovené procesní lhůty využití rychlých ICT řešení (jsou odpovídajícím způsobem zkráceny oproti nedigitalizované variantě výkonu agendy)?"></outline>
+<outline text="Otázka 13: Je služba/informace srozumitelná pro klienty bez specifického vzdělání a zkušeností?"></outline>
+<outline text="Otázka 14: Zvyšují navrhované digitální služby veřejné správy atraktivitu jejich využívání v porovnání s tradičními nedigitalizovanými službami (i nadále dostupnými), resp. jaké přináší výhody oproti tradičním nedigitalizovaným službám?"></outline>
+<outline text="Otázka 15: Předpokládá návrh publikaci dat formou otevřených dat dle platné legislativy? Pokud nepředpokládá, tak uveďte, z jakých důvodů."></outline>
+<outline text="Otázka 16: Vyvolává předpis nové požadavky na zvýšení digitální gramotnosti zaměstnanců veřejné správy, podnikatelů a občanů? Pokud ano, definuje způsob zajištění zvyšování jejich digitální gramotnosti a náklady s tím spojené?"></outline>
+<outline text="Otázka 17: Jsou podnikatelé nuceni na základě předpisu zavádět nové prostředky ICT? Pokud ano, snižuje podnikatelům využití ICT náklady (finanční i nefinanční, např. čas) oproti stejné situaci za využití nedigitalizovaných řešení? Jak vysoké náklady budou spojené s pořízením a provozem potřebného ICT? Jsou tyto náklady přiměřené? Obsahuje předpis nějakou formu kompenzace za předpisem vyvolané náklady a regulaci?"></outline>
+<outline text="Otázka 18: Zajišťuje předpis důvěryhodnost, dostupnost a integritu informací/dat vznikajících, zpracovávaných a vyměňovaných?"></outline>
+<outline text="Otázka 19: Je zachován duální model přístupu, tedy to, že bude k dispozici digitální i nedigitalizované řešení (listinná podoba, osobní vyřízení) výkonu dané agendy a poskytování služeb klientům (minimálně na front office - kontakt s klienty)? V případě digitální části, počítá předpis s identifikací subjektu práva pro samoobslužné služby s využitím přístupu se zaručenou elektronickou identitou občana?"></outline>
+<outline text="Otázka 20: Je úroveň ochrany spotřebitele nebo alespoň její vymáhání při využívání ICT stejná nebo vyšší než ve stejné situaci bez využití ICT?"></outline>
+<outline text="Otázka 21: Snižuje využití ICT náklady občanů (finanční i nefinanční, např. čas) oproti stejné situaci za využití nedigitalizovaných řešení?"></outline>
+</outline>
+<outline text="Komplex podrobných návodných otázek a podotázek ke zhodnocení digitálního dopadu" _note="V této části jsou uvedeny všechny kontrolní a návodné podotázky k souladu s digitálními potřebami a DPL. Podotázky lze selektivně využít i jako návod na co nezapomenout a co si zodpovědět při designu služeb a jejich právního rámce."><outline text="Otázka 1: Jsou navrhovaná ustanovení právního předpisu, upravující digitální realizaci dotčené agendy, začleněna do stávající právní úpravy (jde o změnu stávajících předpisů)?"><outline text="Měním-li zákony, jaké typy zákonů to jsou?"></outline>
+<outline text="Proč tyto zákony měním?"></outline>
+<outline text="Jsem si jist, že pro dosažení cíle stačí změny právě těchto zákonů?"></outline>
+<outline text="Aspekt 1.1: Je navrženo začlenění ustanovení do agendového právního předpisu, do procesního předpisu nebo do právního předpisu upravujícího digitalizaci napříč agendami?"><outline text="Jaký typ změny chci udělat? Jedná se o změnu systémovou a procesní pro celou veřejnou správu, nebo jen o změnu pro určité agendy a jejich vazby?"></outline>
+<outline text="Je změna mých agendových zákonů v souladu s obecnými právními předpisy a jejich procesy?"></outline>
+<outline text="Jsem si jistý, že kromě mých agendových zákonů není potřeba měnit i zákony pro jiné agendy, abych dosáhl svého cíle?"></outline>
+</outline>
+<outline text="Aspekt 1.2: Pokud vyžaduje řešení úpravu formou zcela nového právního předpisu, vysvětlete vazby na stávající legislativu upravující dotčenou oblast/agendu."><outline text="Proč volím formu nového právního předpisu?"></outline>
+<outline text="Není potřeba kromě nového zákona změnit i některé stávající?"></outline>
+<outline text="Je princip mého nového zákona v souladu s obecnými principy?"></outline>
+</outline>
+</outline>
+<outline text="Otázka 2: Stanovuje předpis pro komunikaci veřejné správy s klienty již právním řádem definované nástroje digitální komunikace (např. ISDS)?"><outline text="Mám v návrhu vyřešenu elektronickou komunikaci?"></outline>
+<outline text="Jakými kanály mám elektronickou komunikaci vyřešenu?"></outline>
+<outline text="Existuje-li pro to důvod, jaké nástroje mám pro zvláštní komunikaci v zákoně uvedeny (třeba elektronickou aplikaci)?"></outline>
+<outline text="Jsou nástroje a formy pro elektronickou komunikaci, které jsem si definoval, propojeny s příslušnými informačními systémy veřejné správy?"></outline>
+<outline text="Mám u elektronické komunikace vyřešenou autorizaci klientů?"></outline>
+<outline text="Mám u elektronické komunikace vyřešenou důvěryhodnost takové komunikace, aniž bych kladl na klienty přemrštěné nároky?"></outline>
+</outline>
+<outline text="Otázka 3: Obsahuje právní předpis konkrétní úsporná opatření (finanční i nefinanční, např. čas), vedoucí k zvýšení efektivity veřejné správy a snížení veřejných výdajů (např. optimalizace části, či celé agendy vykonávané dosud nedigitalizovanou formou)?"><outline text="Před či při tvorbě zákona, udělal jsem si analýzu vlastní agendy a jejích procesů?"></outline>
+<outline text="Znamená nová právní úprava nějakou optimalizaci agendy a jejích procesů? A vím, jakou konkrétně?"></outline>
+<outline text="Dokážu alespoň odhadem vyčíslit úspory a zvýšení efektivity?"></outline>
+<outline text="Vím, že mám nově nastavenou legislativu vykonávat optimalizovanými procesy?"></outline>
+<outline text="Dokážu si novou legislativu představit v procesech, které chci měnit?"></outline>
+</outline>
+<outline text="Otázka 4: Lze předpis aplikovat za použití stávajících informačních systémů veřejné správy (ISVS)?"><outline text="Měním-li výkon agendy či měním-li povinnosti, provádím technicky dané činnosti v informačních systémech veřejné správy, nebo v provozních systémech se zvláštním režimem (spisová služba, ekonomický systém apod.) či za použití kombinace obou?"></outline>
+<outline text="Vím, jaké informační systémy jsou pro danou agendu a její změnu klíčové?"></outline>
+<outline text="Znám vazby mezi informačními systémy, které pro danou agendu či činnost potřebuji?"></outline>
+<outline text="Mám zpracovaný alespoň rámcový architektonický pohled na změnu?"></outline>
+<outline text="Aspekt 4.1: Pokud ano, které ISVS budou využity, pro jaké účely a jak je nový předpis ovlivní? Bude nutné provést technické úpravy stávajících ISVS? Jaké budou finanční náklady na tyto úpravy?"><outline text="Vím, kterých stávajících informačních systémů se změna dotkne? A vím jak?"></outline>
+<outline text="Mám zmapováno, co dané informační systémy dělají nyní a jak nyní fungují?"></outline>
+<outline text="Mám zmapováno, jak budu muset stávající informační systémy změnit, aby fungovaly tak, jak s tím počítá můj návrh?"></outline>
+<outline text="Mám změny zpracované v rámci architektonického pohledu?"></outline>
+<outline text="Dokážu alespoň odhadem vyčíslit nároky na takové změny?"></outline>
+<outline text="Vím, jak těchto změn dosáhnu? Smluvně, právně, architektonicky, technicky, funkčně?"></outline>
+<outline text="Znám obdobné dopady i na jiné svoje informační systémy, či na informační systémy někoho jiného, na které potřebuji vazbu?"></outline>
+<outline text="Vím, jaké údaje potřebuji a ve kterých informačních systémech jsou či budou a jak je tam dostanu?"></outline>
+</outline>
+<outline text="Aspekt 4.2: Pokud bude nutné vytvořit nový ISVS, definuje předpis rozdělení rolí při budování a správě nového informačního systému veřejné správy?"><outline text="Potřebuji pro danou agendu či změnu opravdu zcela nový informační systém?"></outline>
+<outline text="Nemohu danou věc lépe řešit rozšířením stávajícího informačního systému?"></outline>
+<outline text="Pokud chci nový informační systém, vím, kdo bude jeho správcem, kdo bude jeho provozovatelem, kdo budou jeho klíčoví uživatelé?"></outline>
+<outline text="Mám v návrhu dobře popsáno, k čemu bude nový informační systém sloužit, jaké v něm povedu údaje a jaké s ním budu podporovat procesy?"></outline>
+<outline text="Mám v návrhu popsány zodpovědnosti za evidenci a správu údajů? Vím, kdo do systému dané údaje zapíše a jak?"></outline>
+<outline text="Mám pro nový informační systém zpracovnou architekturu založenou na legislativních požadavcích?"></outline>
+<outline text="Vím, jaké funkce bude nový informační systém poskytovat a komu a za jakých podmínek?"></outline>
+</outline>
+<outline text="Aspekt 4.3: Jak vysoké budou náklady na vybudování nového ISVS a jeho provoz?"><outline text="Vím, jak si nový informační systém pořídím a co k tomu budu potřebovat?"></outline>
+<outline text="Vím, do jaké architektury a do jakého prostředí ho zasadím?"></outline>
+<outline text="Dokážu odhadnout finanční náročnost?"></outline>
+<outline text="Dokážu odhadnout časovou náročnost na vybudování a počítám s ní v legislativě?"></outline>
+<outline text="Vím, jaké dopady včetně nákladů bude mít využívání mého informačního systému uživateli zejména z řad OVM?"></outline>
+</outline>
+</outline>
+<outline text="Otázka 5: Předpokládá předpis efektivní využití již poskytnutých údajů (ve státním datovém fondu - data obsažená v základních registrech a na ně napojených AIS), tj. nestanoví povinnost subjektu údajů opakovaně poskytovat údaje orgánům veřejné správy?"><outline text="Mám zmapováno, jaké potřebuji vědět údaje, abych mohl úspěšně vykonávat danou agendu či činnost?"></outline>
+<outline text="Vím, kde tyto údaje vezmu?"></outline>
+<outline text="Vím, které z těchto údajů již někde veřejná správa má a v jakých informačních systémech či evidencích?"></outline>
+<outline text="Mám legislativu nastavenu tak, že údaje, které veřejná správa již má, získávám bez nutnosti dokládání klientem?"></outline>
+<outline text="Mám pro danou agendu mapu rozhodných skutečností?"></outline>
+<outline text="Pokud po klientovi budu přesto požadovat, aby něco doložil, umím takovou informaci použít opakovaně?"></outline>
+<outline text="Jednal jsem s gestorem v případech, kdy údaje, které já potřebuji, veřejná správa ještě nikde systematicky neeviduje? A opravdu jsme se nedohodli na nějakém lepším řešení, než je nutnost doložení těchto věcí klientem?"></outline>
+<outline text="A naopak, umím a jsem připraven údaje z mého informačního systému poskytnout ostatním v případech, kdy je oni potřebují ve svých agendách?"></outline>
+</outline>
+<outline text="Otázka 6: Je předpis, pokud má relevanci k základním registrům, v souladu se zákonem č. 111/2009 Sb., o základních registrech?"><outline text="Potřebuji v agendě referenční údaje?"></outline>
+<outline text="Mám ve svém zákoně zákonné zmocnění pro využití referenčních údajů?"></outline>
+<outline text="Mám podrobně vypsané, jaké referenční a jaké nereferenční, ale potřebné, údaje ze základních registrů potřebuji?"></outline>
+<outline text="Mám to samé popsáno i u informačních systémů rozšiřujících základní registry (ISEO, CIS, OR apod.)"></outline>
+<outline text="Počítám s propojováním údajů s dalšími agendami či OVM prostřednictvím překladu přes AIFO?"></outline>
+<outline text="Počítám se zápisem rozhodnutí z mé agendy do Registru práv a povinností?"></outline>
+<outline text="Umím využívat údaje o rozhodnutích z Registru práv a povinností, nebo budu to umět?"></outline>
+<outline text="Jakým způsobem budu realizovat proces ohlášení agendy? Mám k tomu vše potřebné připraveno?"></outline>
+<outline text="Dokážu si rozpracovat svůj zákon na činnosti, vím, jaká bude působnost OVM a jaké budou mít role"></outline>
+</outline>
+<outline text="Otázka 7: Je předpis technologicky neutrální, tedy nepreferuje konkrétní technologie, platformy, software, či zařízení?"><outline text="Nezakládám v zákoně nějaké omezení vůči technologické neutralitě?"></outline>
+<outline text="Nenařizuji zákonem používat konkrétní platformu či technologii?"></outline>
+<outline text="Jsem technologicky otevřený, třeba tím, že mám otevřené rozhraní pro realizaci služeb?"></outline>
+</outline>
+<outline text="Otázka 8: Nedochází ke kontrole či filtraci datového provozu nebo narušení síťové neutrality?"><outline text="Je mnou navrhovaná změna síťově neutrální?"></outline>
+<outline text="Nezakládám svým návrhem možnost ovlivnit síťový provoz?"></outline>
+<outline text="Pokud ano, jsem si jist tím, že je to jediné a správné řešení? A jak ho hodlám realizovat?"></outline>
+<outline text="Hodlám-li porušit síťovou neutralitu, mám dostatečně zajištěnou spravedlnost, transparentnost a přezkum takových kroků?"></outline>
+</outline>
+<outline text="Otázka 9: Má subjekt údajů možnost digitální on-line kontroly užití všech, v souvislosti s jeho případem vedených, údajů s využitím dálkového přístupu se zaručenou elektronickou identitou? Má subjekt možnost revize v případě chybného užití jeho údajů?"><outline text="Vím, jaké údaje o subjektu údajů vedu a proč?"></outline>
+<outline text="Vím, jaké jsou v dané agendě procesy a jejich kroky a jak souvisí se subjektem údajů?"></outline>
+<outline text="Jak proaktivně budu informovat subjekt údajů o postupu v dané agendě?"></outline>
+<outline text="Počítám s tím, že žadatel bude moci získat on-line informaci o stavu daného řízení či činnosti?"></outline>
+<outline text="Počítám s elektronickým nahlížením do spisu?"></outline>
+</outline>
+<outline text="Otázka 10: Zajišťuje předpis digitální přístupnost všem oprávněným občanům, podnikatelům i orgánům veřejné moci bez omezení, včetně osob s postižením a funkčními omezeními?"><outline text="Naplňuje můj návrh zásady governance accessibility?"></outline>
+<outline text="Počítám s tím, že klienty jsou i osoby se zdravotním postižením a nebráním jim nějak?"></outline>
+<outline text="Je moje legislativní řešení nediskriminační?"></outline>
+<outline text="Počítám s řešením otázky přístupnosti pro veškeré dotčené informační systémy, portály, internetové stránky, aplikace apod.?"></outline>
+<outline text="Zavádím-li povinnost vykonávanou elektronicky, nebráním jejím provedením ji splnit osobám se zdravotním postižením?"></outline>
+<outline text="Naopak, nepřipouštím-li určité jednání v elektronické formě, nezakládám diskriminaci osob se zdravotním postižením?"></outline>
+<outline text="Mají a budou mít všichni na rovnoprávném základě rovný přístup a shodné možnosti využívat moji službu, či plnit svoje povinnosti nebo naplnit svoje práva?"></outline>
+</outline>
+<outline text="Otázka 11: Lze se k digitální službě/informaci dostat prostřednictvím dostupného ICT zařízení, např. ve veřejných knihovnách, úřadech?"><outline text="Neomezuji přístup ke službě či informaci? A pokud ano, vím, proč to dělám?"></outline>
+<outline text="Nekladu bariéry využití on-line služby odkudkoliv?"></outline>
+</outline>
+<outline text="Otázka 12: Odpovídají stanovené procesní lhůty využití rychlých ICT řešení (jsou odpovídajícím způsobem zkráceny oproti nedigitalizované variantě výkonu agendy)?"><outline text="Vím, co mi přinese optimalizace a elektronizace procesů v agendě?"></outline>
+<outline text="Vím, o kolik se mi zkrátí procesy v agendě její elektronizací?"></outline>
+<outline text="Mám toto promítnuto do svého návrhu legislativy?"></outline>
+<outline text="Přináší elektronizace a elektronický výkon agendy zkrácení lhůt?"></outline>
+<outline text="Jakými prostředky a kanály budu informovat klienta o postupu v dané agendě?"></outline>
+<outline text="Jaké nástroje poskytnu klientovi pro to, aby mohl kontrolovat postup v dané agendě?"></outline>
+</outline>
+<outline text="Otázka 13: Je služba/informace srozumitelná pro klienty bez specifického vzdělání a zkušeností?"><outline text="Dodržuji princip srozumitelnosti po právní, procesní i technické stránce?"></outline>
+<outline text="Mám srozumitelně popsané veškeré informace o dané agendě?"></outline>
+<outline text="Mám srozumitelně popsané životní situace a postupy související s danou agendou?"></outline>
+<outline text="Jak budu srozumitelně vysvětlovat klientovi jeho povinnosti a práva pro elektronickou i neelektronickou verzi agendy?"></outline>
+<outline text="Zvažuji nástroje pro srozumitelnější a jednoduší podání a interakci klienta, třeba průvodce pro klienta místo statického formuláře?"></outline>
+<outline text="Počítám se srozumitelnou a návodnou nápovědou na portálech a v informačních systémech?"></outline>
+</outline>
+<outline text="Otázka 14: Zvyšují navrhované digitální služby veřejné správy atraktivitu jejich využívání v porovnání s tradičními nedigitalizovanými službami (i nadále dostupnými), resp. jaké přináší výhody oproti tradičním nedigitalizovaným službám?"><outline text="Nezavádím pouze a výhradně elektronickou komunikaci? Ponechávám možnost neelektronické komunikace pro ty, kdo elektronicky komunikovat nechtějí?"></outline>
+<outline text="Jaký je rozdíl mezi elektronickou a neelektronickou komunikací s klientem v agendě?"></outline>
+<outline text="Udělal jsem si srovnání mezi neelektronickou a elektronickou verzí agendy?"></outline>
+</outline>
+<outline text="Otázka 15: Předpokládá návrh publikaci dat formou otevřených dat dle platné legislativy? Pokud nepředpokládá, tak uveďte, z jakých důvodů."><outline text="Vím, jaké druhy údajů vedu v rámci dané agendy a kde?"></outline>
+<outline text="Vím, které z takových údajů nemohu publikovat jako otevřená data a mám k tomu dobrý důvod?"></outline>
+<outline text="Počítám s publikací všech dat, které to umožňují, jako otevřená data?"></outline>
+</outline>
+<outline text="Otázka 16: Vyvolává předpis nové požadavky na zvýšení digitální gramotnosti zaměstnanců veřejné správy, podnikatelů a občanů? Pokud ano, definuje způsob zajištění zvyšování jejich digitální gramotnosti a náklady s tím spojené?"><outline text="Zakládám nové povinnosti či potřebuji nové znalosti od úředníků, občanů, podnikatelů, klientů?"></outline>
+<outline text="Pokud ano, jak to zajistím?"></outline>
+<outline text="Mám rozmyšlený mechanismus osvěty, seznámení s novými povinnostmi a nároky a školením dotčených?"></outline>
+</outline>
+<outline text="Otázka 17: Jsou podnikatelé nuceni na základě předpisu zavádět nové prostředky ICT? Pokud ano, snižuje podnikatelům využití ICT náklady (finanční i nefinanční, např. čas) oproti stejné situaci za využití nedigitalizovaných řešení? Jak vysoké náklady budou spojené s pořízením a provozem potřebného ICT? Jsou tyto náklady přiměřené? Obsahuje předpis nějakou formu kompenzace za předpisem vyvolané náklady a regulaci?"><outline text="Vyžaduje nová právní úprava nový způsob komunikace či nové prostředky?"></outline>
+<outline text="Vím kupříkladu, jak se budou podnikatelé autorizovat a jak budou důvěryhodným způsobem přenášet data, aby své nové povinnosti naplnili?"></outline>
+<outline text="Zvažoval jsem pro tyto případy využití již existujících mechanismů?"></outline>
+<outline text="Pokud nutím podnikatele do nových elektronických povinností, co jim to přinese?"></outline>
+</outline>
+<outline text="Otázka 18: Zajišťuje předpis důvěryhodnost, dostupnost a integritu informací/dat vznikajících, zpracovávaných a vyměňovaných?"><outline text="Vím, jak vznikají, kde se spravují, evidují a odkud pocházejí údaje a informace v dané agendě či činnosti?"></outline>
+<outline text="Pokud pro danou agendu potřebuji údaje, znám jejich míru důvěry?"></outline>
+<outline text="Mám popsaný mechanismus pořizování, reklamace, aktualizace a správy údajů?"></outline>
+<outline text="Vím, kdo je za co zodpovědný a jak bude tuto zodpovědnost vykonávat?"></outline>
+<outline text="Mám zajištěnu integritu informačních systémů a v nich vedených údajů?"></outline>
+<outline text="Mám zajištěnu oblast kybernetické bezpečnosti?"></outline>
+<outline text="Počítám s mechanismy kontroly údajů a jejich integrity a důvěryhodnosti? A vím, jak to budu dělat?"></outline>
+</outline>
+<outline text="Otázka 19: Je zachován duální model přístupu, tedy to, že bude k dispozici digitální i nedigitalizované řešení (listinná podoba, osobní vyřízení) výkonu dané agendy a poskytování služeb klientům (minimálně na front office - kontakt s klienty)? V případě digitální části, počítá předpis s identifikací subjektu práva pro samoobslužné služby s využitím přístupu se zaručenou elektronickou identitou občana?"><outline text="Zachovávám obě formy (elektronickou i neelektronickou) a mám je rovnoprávné?"></outline>
+<outline text="Nediskriminuji jakkoliv jednu z takových forem?"></outline>
+<outline text="Mám i u neelektronické komunikace zajištěnu elektronizaci procesů a jejich podpory?"></outline>
+<outline text="Mám zmapovány výhody a nevýhody obou forem?"></outline>
+</outline>
+<outline text="Otázka 20: Je úroveň ochrany spotřebitele nebo alespoň její vymáhání při využívání ICT stejná nebo vyšší než ve stejné situaci bez využití ICT?"><outline text="Zasahuje nová právní úprava do vztahu spotřebitele a poskytovatele? Pokud ano, jakým způsobem?"></outline>
+<outline text="Posiluje nová právní úprava možnosti spotřebitele řešit problémy elektronickou cestou?"></outline>
+<outline text="Nediskriminuje spotřebitele, či neklade na něj přemrštěné nároky?"></outline>
+<outline text="Neklade naopak přemrštěné nároky na protistranu v potenciálních sporech?"></outline>
+<outline text="Umožňuje spotřebiteli se bránit, či nějak reagovat v případě, kdy se domnívá, že byla omezena jeho práva či, že byl poškozen?"></outline>
+<outline text="Platí tyto mechanismy obdobně i při vztahu klienta s veřejnou správou?"></outline>
+</outline>
+<outline text="Otázka 21: Snižuje využití ICT náklady občanů (finanční i nefinanční, např. čas) oproti stejné situaci za využití nedigitalizovaných řešení?"><outline text="Jaké nároky na občana má daná agenda v neelektronické podobě?"></outline>
+<outline text="Musí občan pro zdárné dokončení procesu dokládat další rozhodné skutečnosti či údaje? Jak to činí? Nejsou již náhodou státu tyto údaje známy?"></outline>
+<outline text="Je-li daná agenda a procesy v ní vykonávány elektronicky, ušetří to občanovi čas?"></outline>
+<outline text="O co složitější a náročnější je pro občana neelektronické vyřízení agendy?"></outline>
+<outline text="Kolik různých věcí občan musí posílat listinnou formou v neelektronickém průběhu agendy?"></outline>
+<outline text="Jak elektronická verze agendy pomáhá občanovi rychleji vše vyplnit, podat, doložit?"></outline>
+<outline text="Bude s občanem v agendě komunikováno elektronicky?"></outline>
+<outline text="Při elektronické komunikaci v agendě s občanem, kolik dopisů, rozhodnutí, oznámení a dalších dokumentů se mu nemusí posílat listinnou formou a nutit ho si je přebírat?"></outline>
+</outline>
+</outline>
+</outline>
+</body>
+</opml>

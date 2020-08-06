@@ -1,0 +1,218 @@
+{
+"NAME": "TEMPLATE.UDAJE_POPIS_ISVS",
+"PACKAGE": "cz.michalradacz.czech_eg_objects_and_tools.datasets.templates.udaje_popis_isvs",
+"PACKAGE_TYPE": "TEMPLATE",
+"DESCRIPTION": "Template JSON pro evidenci a správu údajů o popisu ISVS jak je definován ve vyhlášce 329/2020 a její příloze.",
+"VERSION": "1.0",
+"AUTHOR": "(c) 2020 Open-source aliance & projekt OPENCZEG & VZP ČR",
+  "ENTITY.ISVS": {
+    "Popisné údaje": {
+      "Název ISVS": "",
+      "Alternativní názvy": "",
+      "Určený informační systém": "TRUE",
+      "Datum vytvoření ISVS": "",
+      "Datum likvidace ISVS": "",
+      "Kontakt": {
+        "adresa elektronické pošty ": "",
+        "poštovní adresa": ""
+      },
+      "Charakteristika ISVS": "",
+      "Komentář": "",
+      "Právní předpisy": {
+        "Číslo": "",
+        "Název": "",
+        "Úplný název": "",
+        "Ustanovení": ""
+      },
+      "Agendy": {
+        "Kód": "",
+        "Název": "",
+        "Platná": "TRUE"
+      },
+      "Typ etapy životního cyklu": ""
+    },
+    "Etapy životního cyklu": {
+      "Etapa": "",
+      "Fáze": "",
+      "Plán - od": "",
+      "Plán - do": "",
+      "Skutečnost - od": "",
+      "Skutečnost - do": "",
+      "Poznámka": ""
+    },
+    "Správce ISVS": {
+      "IČ": "",
+      "Název": "",
+      "Adresa": "",
+      "Adresa elektronické pošty": "",
+      "ID Datové schránky": "",
+      "Typ datové schránky": "",
+      "Organizační jednotka": {
+        "Název": "",
+        "Telefonní číslo": "",
+        "Adresa elektronické pošty": ""
+      }
+    },
+    "Provozovatel ISVS": {
+      "IČ": "",
+      "Název": "",
+      "Adresa": "",
+      "Adresa elektronické pošty": "",
+      "ID Datové schránky": "",
+      "Typ datové schránky": "",
+      "Organizační jednotka": {
+        "Název": "",
+        "Telefonní číslo": "",
+        "Adresa elektronické pošty": ""
+      }
+    },
+    "Dodavatelé ISVS": {
+      "Dodavatel ISVS": {
+        "IČ": "",
+        "Název": "",
+        "Adresa": "",
+        "Adresa elektronické pošty": "",
+        "ID Datové schránky": "",
+        "Typ datové schránky": "",
+        "Organizační jednotka": {
+          "Název": "",
+          "Telefonní číslo": "",
+          "Adresa elektronické pošty": ""
+        },
+        "Typ": "",
+        "Hlavní dodavatel / subdodavatel": "",
+        "Období aktivní účasti na dodávce - datum od": "",
+        "Období aktivní účasti na dodávce - datum do": "",
+        "Komponenty ISVS": ""
+      }
+    },
+    "Certifikace": {
+      "Certifikace": {
+        "Typ certifikace": "",
+        "Datum certifikace": ""
+      }
+    },
+    "Finanční parametry ISVS": {
+      "Parametr": {
+        "Rok": "",
+        "Etapa": "",
+        "Externí výdaje": "",
+        "Interní náklady": "",
+        "Kategorie finančního parametru": ""
+      }
+    },
+    "Využití ISVS": {
+      "Úroveň sdílení ISVS": "",
+      "OVM využívající služby ISVS": {
+        "Identifikátor": "",
+        "Druh": "",
+        "Název": "",
+        "Rozsah využívání": ""
+      }
+    },
+    "Aplikační členění ISVS": {
+      "Prvek aplikační architektury": {
+        "Identifikátor aplikačního prvku": "",
+        "Název aplikačního prvku": "",
+        "Popis funkcionality": "",
+        "Typ": "",
+        "Umístění": "",
+        "URL dokumentace": ""
+      }
+    },
+    "Zpracování osobních údajů v ISVS": {
+      "Právní titul pro zpracování osobních údajů ": "",
+      "Rozsah zpracovávaných osobních údajů": [],
+      "Rozsah zpracovávaných osobních údajů podle čl. 9 obecného nařízení o ochraně osobních údajů": [],
+      "Právní předpis, který je právním titulem pro zpracování osobních údajů": [],
+      "Právní předpis, který je právním titulem pro zpracování osobních údajů podle čl. 9 obecného nařízení o ochraně osobních údajů": []
+    }
+  },
+  "VALUE LISTS": {
+    "Typ etapy životního cyklu ISVS": [
+      "1. vytváření ISVS",
+      "2. provoz, užívání a rozvoj ISVS",
+      "3. zrušení ISVS"
+    ],
+    "Fáze etapy životního cyklu ISVS": [
+      "1. strategie",
+      "2. plánování a příprava",
+      "3. realizace",
+      "4. produkční provoz",
+      "5. vyhodnocení",
+      "6. ukončení poskytování služby"
+    ],
+    "Typ dodavatele v rámci konkrétní dodávky": [
+      "1. dodavatel aplikačního programového vybavení",
+      "2. dodavatel základního programového vybavení",
+      "3. dodavatel aplikační služby",
+      "4. dodavatel technického vybavení",
+      "5. dodavatel systémové integrace",
+      "6. dodavatel platformy",
+      "7. dodavatel provozní podpory "
+    ],
+    "Externí výdaje": [
+      "1. náklady nákupního procesu (předběžné analýzy, tvorba zadání, výběr řešení a dodavatele)",
+      "2. nákup programového vybavení a technického vybavení pro projekt",
+      "3. analýza, vývoj, implementace a zkušební provoz",
+      "4. produkční provoz a podpora řešení programového vybavení a technického vybavení",
+      "5. údržba a průběžné úpravy programového vybavení a technického vybavení",
+      "6. projekty postupné inovace a zlepšování",
+      "7. projekty upgrade",
+      "8. zvýšené náklady užívání řešení",
+      "9. konzervace a ukončení řešení",
+      "10. náklady na předplatné ICT služby včetně všech odpovídajících přímých interních nákladů",
+      "11. ostatní náklady, které nelze přiřadit k fázi životního cyklu ISVS"
+    ],
+    "Interní náklady": [
+      "1. náklady nákupního procesu (předběžné analýzy, tvorba zadání, výběr řešení a dodavatele)",
+      "2. nákup programového vybavení a technického vybavení pro projekt",
+      "3. analýza, vývoj, implementace a zkušební provoz",
+      "4. produkční provoz a podpora řešení programového vybavení a technického vybavení",
+      "5. údržba a průběžné úpravy programového vybavení a technického vybavení",
+      "6. projekty postupné inovace a zlepšování",
+      "7. projekty upgrade",
+      "8. zvýšené náklady užívání řešení",
+      "9. konzervace a ukončení řešení",
+      "10. náklady na předplatné ICT služby včetně všech odpovídajících přímých interních nákladů",
+      "11. ostatní náklady, které nelze přiřadit k fázi životního cyklu ISVS"
+    ],
+    "Kategorie finančního parametru ": [
+      "1. náklady nákupního procesu (předběžné analýzy, tvorba zadání, výběr řešení a dodavatele)",
+      "2. nákup programového vybavení a technického vybavení pro projekt",
+      "3. analýza, vývoj, implementace a zkušební provoz",
+      "4. produkční provoz a podpora řešení programového vybavení a technického vybavení",
+      "5. údržba a průběžné úpravy programového vybavení a technického vybavení",
+      "6. projekty postupné inovace a zlepšování",
+      "7. projekty upgrade",
+      "8. zvýšené náklady užívání řešení",
+      "9. konzervace a ukončení řešení",
+      "10. náklady na předplatné ICT služby včetně všech odpovídajících přímých interních nákladů",
+      "11. ostatní náklady, které nelze přiřadit k fázi životního cyklu ISVS"
+    ],
+    "Úroveň sdílení ISVS": [
+      "1. centrálně sdílený",
+      "2. sdílený v rámci územního celku nižšího než stát",
+      "3. individuální"
+    ],
+    "Typ aplikačního prvku ISVS": [
+      "1. ISVS",
+      "2. aplikační komponenta",
+      "3. aplikační funkce",
+      "4. aplikační služba",
+      "5. aplikační rozhraní",
+      "6. aplikační oblast",
+      "7. aplikační kategorie",
+      "8. aplikační skupina"
+    ],
+    "Právní titul pro zpracování osobních údajů": [
+      "1. nezpracovávají se osobní údaje",
+      "2. na základě souhlasu subjektu údajů",
+      "3. nezbytné pro splnění smlouvy",
+      "4. nezbytné pro splnění právní povinnosti",
+      "5. nezbytné pro ochranu životně důležitých zájmů subjektu údajů",
+      "6. nezbytné pro splnění úkolu prováděného ve veřejném zájmu nebo při výkonu veřejné moci",
+      "7. nezbytné pro účely oprávněných zájmů příslušného správce"
+    ]
+  }
+}
